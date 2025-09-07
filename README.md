@@ -45,6 +45,13 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 ## Papers
 
 ### 2025
+
+- ✨ (08/2025) LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
+- ✨ (08/2025) CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- ✨ (08/2025) Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
+- ✨ (08/2025) WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- ✨ (08/2025) Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2508.04448)] [[Code](https://github.com/Damian0401/ProjectAnalyzer)]
+- ✨ (08/2025) Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
 - ✨ (07/2025) Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.21817)] [[Code](https://github.com/yikun-li/TitanVul-BenchVul)]
 - ✨ (07/2025) Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - ✨ (07/2025) LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16585)] [[Code](https://github.com/qcri/llmxcpg)] [[Code](https://zenodo.org/records/15614095)]

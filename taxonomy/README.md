@@ -68,6 +68,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 ## Detection Task
 ### Task Formulation
 #### Binary
+- Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
 - Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
 - HgtJIT: Just-in-Time Vulnerability Detection Based on Heterogeneous Graph Transformer.  **`TDSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11072308)]
@@ -262,6 +263,11 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.10756)] 
 
 #### Multi-Class
+- Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2508.04448)] [[Code](https://github.com/Damian0401/ProjectAnalyzer)]
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
+- LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
 - Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.21817)] [[Code](https://github.com/yikun-li/TitanVul-BenchVul)]
@@ -371,6 +377,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Fight Fire With Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?.  **`TSE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10745266)] [[Code](https://figshare.com/s/4b51f0b8a2cda17d08be)]
 
 #### Vulnerability Localization
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
 - SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.19828)] [[Code](https://github.com/basimbd/SecVulEval)]
 - DB-CBIL: A DistilBert-Based Transformer Hybrid Model Using CNN and BiLSTM for Software Vulnerability Detection.  **`IEEE Access 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10517582)] 
 - Using ChatGPT as a Static Application Security Testing Tool.  **`arXiv 2023`** [[Paper](https://arxiv.org/abs/2308.14434)] [[Code](https://github.com/abakhshandeh/ChatGPTasSAST)]
@@ -443,6 +450,10 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Leveraging Large Language Models for Command Injection Vulnerability Analysis in Python: An Empirical Study on Popular Open-Source Projects.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15088)] 
 
 #### Reasoning
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
+- LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.19828)] [[Code](https://github.com/basimbd/SecVulEval)]
@@ -482,6 +493,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 
 ## Input Representation
 #### Raw
+- Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
 - Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
@@ -643,6 +655,10 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - BERT-Based Vulnerability Type Identification with Effective Program Representation.  **`WASA 2022`** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19208-1_23#citeas)] 
 
 #### Prompt
+- Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2508.04448)] [[Code](https://github.com/Damian0401/ProjectAnalyzer)]
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16585)] [[Code](https://github.com/qcri/llmxcpg)] [[Code](https://zenodo.org/records/15614095)]
@@ -745,6 +761,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.10756)] 
 
 #### Conversation-Style
+- LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2406.03718)] [[Code](https://github.com/CGCL-codes/VulLLM)]
 - VulnGPT: Enhancing Source Code Vulnerability Detection Using AutoGPT and Adaptive Supervision Strategies.  **`DCOSS-IoT 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10621527)] 
 - May the Source Be with You: On ChatGPT, Cybersecurity, and Secure Coding.  **`Information 2024`** [[Paper](https://www.mdpi.com/2078-2489/15/9/572)] 
@@ -762,6 +779,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 ## System Architecture
 ### LLM-Centric
 #### Code LLMs
+- Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
 - Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
@@ -896,6 +914,11 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.10756)] 
 
 #### General-Purpose LLMs
+- Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2508.04448)] [[Code](https://github.com/Damian0401/ProjectAnalyzer)]
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
+- LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
@@ -1084,6 +1107,8 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 ## Adaptation Technique
 ### Prompt-Engineering
 #### Zero-Shot
+- Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2508.04448)] [[Code](https://github.com/Damian0401/ProjectAnalyzer)]
+- LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - Revisiting Pre-trained Language Models for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16887)]
 - Navigating (In)Security of AI-Generated Code.  **`CSR 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10679468)] 
@@ -1192,6 +1217,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Large Language Model for Vulnerability Detection: Emerging Results and Future Directions.  **`ICSE-NIER 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3639476.3639762)] [[Code](https://github.com/soarsmu/ChatGPT-VulDetection)]
 
 #### RAG
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
 - LLM-CloudSec: Large Language Model Empowered Automatic and Deep Vulnerability Analysis for Intelligent Clouds.  **`INFOCOM WKSHPS 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10620804)] [[Code](https://github.com/DPCa0/LLM-CloudSec)]
 - Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2406.11147)] [[Code](https://github.com/knowledgerag4llmvuld/knowledgerag4llmvuld)]
 - Boosting Cybersecurity Vulnerability Scanning based on LLM-supported Static Application Security Testing.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.15735)] 
@@ -1211,6 +1237,8 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - SSRFSeek: An LLM-based Static Analysis Framework for Detecting SSRF Vulnerabilities in PHP Applications.  **`AINIT 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11035424)] 
 
 #### CoT
+- CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - Enhancing Software Code Vulnerability Detection Using GPT-4o and Claude-3.5 Sonnet: A Study on Prompt Engineering Techniques.  **`Electronics 2024`** [[Paper](https://www.mdpi.com/2079-9292/13/13/2657)] 
@@ -1260,6 +1288,8 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Reasoning with LLMs for Zero-Shot Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2503.17885)] [[Code](https://github.com/Erroristotle/VulnSage)]
 
 #### Agentic
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
+- Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
 - BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.15216)]
 - SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.19828)] [[Code](https://github.com/basimbd/SecVulEval)]
 - LLM-CloudSec: Large Language Model Empowered Automatic and Deep Vulnerability Analysis for Intelligent Clouds.  **`INFOCOM WKSHPS 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10620804)] [[Code](https://github.com/DPCa0/LLM-CloudSec)]
@@ -1305,6 +1335,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Python Source Code Vulnerability Detection Based on CodeBERT Language Model.  **`ACAI 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10899694)] 
 
 #### Full-Parameter Fine-Tuning
+- Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
 - Automated Code Review Using Large Language Models with Symbolic Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.18476)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.21817)] [[Code](https://github.com/yikun-li/TitanVul-BenchVul)]
@@ -1443,6 +1474,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Parameter-efficient Multi-classification Software Defect Detection Method based on Pre-trained LLMs.  **`IJCIS 2024`** [[Paper](https://link.springer.com/article/10.1007/s44196-024-00551-3)] [[Code](https://gitee.com/wxyzjp123/msdd-ia3/)]
 
 #### Low-Rank Decomposition
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)]
 - LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16585)] [[Code](https://github.com/qcri/llmxcpg)] [[Code](https://zenodo.org/records/15614095)]
 - Revisiting Pre-trained Language Models for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16887)]
 - RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2410.07573)] 
@@ -1485,6 +1517,7 @@ We categorize existing LLM4SVD approaches according to detection task, input rep
 - Towards Causal Deep Learning for Vulnerability Detection.  **`ICSE 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639170)] [[Code](https://figshare.com/s/0ffda320dcb96c249ef2?file=41801019)]
 
 #### Multi-Task Learning
+- WAAD: A Web Vulnerability Attack Behavior Identification Method Based on Large Language Model.  **`ICCEA 2025`** [[Paper](https://ieeexplore.ieee.org/document/11103444)] 
 - Improving Vulnerability Type Prediction and Line-Level Detection via Adversarial Training-based Data Augmentation and Multi-Task Learning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.23534)] [[Code](https://github.com/Karelye/EDAT-MLT)]
 - MultiVD: A Transformer-based Multitask Approach for Software Vulnerability Detection.  **`SECRYPT 2024`** [[Paper](https://www.scitepress.org/Papers/2024/127194/127194.pdf)] 
 - TRACED: Execution-aware Pre-training for Source Code.  **`ICSE 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3597503.3608140)] [[Code](https://github.com/ARiSE-Lab/TRACED_ICSE_24)]
