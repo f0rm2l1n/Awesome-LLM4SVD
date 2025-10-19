@@ -44,7 +44,7 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 
 ## Papers
 
-> **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the preprint paper.
+> **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the preprint of the SLR.
 
 
 
