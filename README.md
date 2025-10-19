@@ -44,8 +44,20 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 
 ## Papers
 
-### 2025
+> **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the preprint paper.
 
+
+
+### 2025
+- ✨ (09/2025) Weakly Supervised Vulnerability Localization via Multiple Instance Learning.  **`TOSEM 2025`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3768572)]
+- ✨ (09/2025) Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.12629)] [[Code](https://github.com/sssszh/ELVul4LLM)]
+- ✨ (09/2025) VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.11523)]
+- ✨ (09/2025) Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open \& Industry Data.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.09313)] [[Code](https://github.com/CybersecurityLab-unibz/cross_domain_evaluation)]
+- ✨ (09/2025) An Advanced Detection Framework for Embedded System Vulnerabilities.  **`IEEE Access 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11153853)]
+- ✨ (09/2025) MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.00317)] [[Code](https://github.com/youpengl/MAVUL)]
+- ✨ (08/2025) Enhancing Fine-Grained Vulnerability Detection With Reinforcement Learning.  **`TSE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11145224)] [[Code](https://github.com/YuanJiangGit/RLFD)]
+- ✨ (08/2025) Multimodal Fusion for Vulnerability Detection: Integrating Sequence and Graph-Based Analysis with LLM Augmentation.  **`MAPR 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11133833)]
+- ✨ (08/2025) MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning.  **`IRI 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11153184)]
 - ✨ (08/2025) LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - ✨ (08/2025) CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.11599)]
 - ✨ (08/2025) Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16625)]
@@ -80,6 +92,8 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 - (06/2025) LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2401.16185)] [[Code](https://anonymous.4open.science/r/LLM4Vuln/README.md)]
 - (06/2025) An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2401.16310)] [[Code](https://zenodo.org/records/15572151)]
 - (06/2025) ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2408.16028)] [[Code](https://anonymous.4open.science/r/anvil)]
+- ✨ (05/2025) LLaVul: A Multimodal LLM for Interpretable Vulnerability Reasoning about Source Code.  **`ICSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11140501)]
+- ✨ (05/2025) A Comparative Study of Machine Learning and Large Language Models for SQL and NoSQL Injection Vulnerability Detection.  **`SIST 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11139190)]
 - (05/2025) RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2501.18160)] [[Code](https://github.com/PurCL/RepoAudit)]
 - (05/2025) SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.19828)] [[Code](https://github.com/basimbd/SecVulEval)]
 - (05/2025) VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.19395)] [[Code](https://github.com/AfterQuery/vader)]
