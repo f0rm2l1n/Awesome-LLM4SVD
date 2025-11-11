@@ -49,6 +49,15 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 
 
 ### 2025
+- ✨ (10/2025) On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.27675)]
+- ✨ (10/2025) SecureReviewer: Enhancing Large Language Models for Secure Code Review through Secure-aware Fine-tuning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.26457)] [[Code](https://github.com/SIMIAO515/SecureReviewer)]
+- ✨ (10/2025) iCodeReviewer: Improving Secure Code Review with Mixture of Prompts.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.12186)]
+- ✨ (10/2025) Llama-Based Source Code Vulnerability Detection: Prompt Engineering vs Fine Tuning.  **`ESORICS 2025`** [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-07884-1_15)] [[Code](https://github.com/DynaSoumhaneOuchebara/Llama-based-vulnerability-detection)]
+- ✨ (10/2025) Bridging Semantics \& Structure for Software Vulnerability Detection using Hybrid Network Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.10321)]
+- ✨ (10/2025) Distilling Lightweight Language Models for C/C++ Vulnerabilities.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.06645)] [[Code](https://github.com/yangxiaoxuan123/ FineSec_detect)]
+- ✨ (10/2025) MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.04397)]
+- ✨ (10/2025) Real-VulLLM: An LLM Based Assessment Framework in the Wild.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.04056)]
+- ✨ (09/2025) Utilizing Large Programming Language Models on Software Vulnerability Detection.  **`ASYU 2025`** [[Paper](https://ieeexplore.ieee.org/document/11208282)]
 - ✨ (09/2025) Weakly Supervised Vulnerability Localization via Multiple Instance Learning.  **`TOSEM 2025`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3768572)]
 - ✨ (09/2025) Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.12629)] [[Code](https://github.com/sssszh/ELVul4LLM)]
 - ✨ (09/2025) VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.11523)]
@@ -72,6 +81,8 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 - ✨ (07/2025) HgtJIT: Just-in-Time Vulnerability Detection Based on Heterogeneous Graph Transformer.  **`TDSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11072308)]
 - ✨ (07/2025) Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - ✨ (07/2025) CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation.  **`ACL 2025`** [[Paper](https://aclanthology.org/2025.findings-acl.414/)] [[Code](https://github.com/yoimiya-nlp/CLeVeR)]
+- ✨ (07/2025) AI-Powered Vulnerability Detection in Code Using BERT-Based LLM with Transparency Measures.  **`ITC-Egypt 2025`** [[Paper](https://ieeexplore.ieee.org/document/11186618)]
+- ✨ (07/2025) An Automatic Classification Model for Long Code Vulnerabilities Based on the Teacher-Student Framework.  **`QRS-C 2025`** [[Paper](https://ieeexplore.ieee.org/document/11216609)]
 - (06/2025) Improving Vulnerability Type Prediction and Line-Level Detection via Adversarial Training-based Data Augmentation and Multi-Task Learning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.23534)] [[Code](https://github.com/Karelye/EDAT-MLT)]
 - (06/2025) Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.20444)]
 - (06/2025) FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2506.19453)] [[Code](https://github.com/sajalhalder/FuncVul)]
@@ -92,6 +103,8 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 - (06/2025) LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2401.16185)] [[Code](https://anonymous.4open.science/r/LLM4Vuln/README.md)]
 - (06/2025) An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2401.16310)] [[Code](https://zenodo.org/records/15572151)]
 - (06/2025) ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2408.16028)] [[Code](https://anonymous.4open.science/r/anvil)]
+- ✨ (06/2025) VuL-MCBERT: A Vulnerability Detection Method Based on Self-Supervised Contrastive Learning.  **`CAIBDA 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11183103)]
+- ✨ (05/2025) An Automated Code Review Framework Based on BERT and Qianwen Large Model.  **`CCAI 2025`** [[Paper](https://ieeexplore.ieee.org/document/11189422)]
 - ✨ (05/2025) LLaVul: A Multimodal LLM for Interpretable Vulnerability Reasoning about Source Code.  **`ICSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11140501)]
 - ✨ (05/2025) A Comparative Study of Machine Learning and Large Language Models for SQL and NoSQL Injection Vulnerability Detection.  **`SIST 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11139190)]
 - (05/2025) RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2501.18160)] [[Code](https://github.com/PurCL/RepoAudit)]
