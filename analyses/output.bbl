@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{363}
+\begin{thebibliography}{404}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -64,18 +64,44 @@
         {akliAutoAdaptApplicationAutoML2025}
 \bibfield{author}{\bibinfo{person}{Amal Akli}, \bibinfo{person}{Maxime Cordy}, \bibinfo{person}{Mike Papadakis}, {and} \bibinfo{person}{Yves Le~Traon}.} \bibinfo{year}{2025}\natexlab{}.
 \newblock \showarticletitle{{AutoAdapt: On the Application of AutoML for Parameter-Efficient Fine-Tuning of Pre-Trained Code Models}}.
-\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology (TOSEM)}} \bibinfo{volume}{Just Accepted}, \bibinfo{number}{Just Accepted} (\bibinfo{year}{2025}).
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology (TOSEM)}} (\bibinfo{year}{2025}).
 \newblock
 \href{https://doi.org/10.1145/3734867}{doi:\nolinkurl{10.1145/3734867}}
+\newblock
+\shownote{Just Accepted}.
+
+
+\bibitem[Alam et~al\mbox{.}(2025)]%
+        {alam2025improving}
+\bibfield{author}{\bibinfo{person}{Syeda~Sadia Alam}, \bibinfo{person}{Mst~Shapna Akter}, {and} \bibinfo{person}{Alfredo Cuzzocrea}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Improving Software Security Through a LLM-Based Vulnerability Detection Model}}. In \bibinfo{booktitle}{\emph{International Conference on Database and Expert Systems Applications (DEXA)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Bangkok, Thailand}, \bibinfo{pages}{122--129}.
+\newblock
+\href{https://doi.org/10.1007/978-3-032-02049-9_9}{doi:\nolinkurl{10.1007/978-3-032-02049-9_9}}
 
 
 \bibitem[Allamanis et~al\mbox{.}(2018)]%
         {allamanis2018survey}
 \bibfield{author}{\bibinfo{person}{Miltiadis Allamanis}, \bibinfo{person}{Earl~T. Barr}, \bibinfo{person}{Premkumar Devanbu}, {and} \bibinfo{person}{Charles Sutton}.} \bibinfo{year}{2018}\natexlab{}.
 \newblock \showarticletitle{{A Survey of Machine Learning for Big Code and Naturalness}}.
-\newblock \bibinfo{journal}{\emph{ACM Computing Surveys (CSUR)}} \bibinfo{volume}{51}, \bibinfo{number}{4}, Article \bibinfo{articleno}{81} (\bibinfo{year}{2018}), \bibinfo{numpages}{37}~pages.
+\newblock \bibinfo{journal}{\emph{Comput. Surveys}} \bibinfo{volume}{51}, \bibinfo{number}{4}, Article \bibinfo{articleno}{81} (\bibinfo{year}{2018}), \bibinfo{numpages}{37}~pages.
 \newblock
 \href{https://doi.org/10.1145/3212695}{doi:\nolinkurl{10.1145/3212695}}
+
+
+\bibitem[Alqarni and Azim(2025)]%
+        {alqarniAdvancedDetectionFramework2025}
+\bibfield{author}{\bibinfo{person}{Mansour Alqarni} {and} \bibinfo{person}{Akramul Azim}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{An Advanced Detection Framework for Embedded System Vulnerabilities}}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{13} (\bibinfo{year}{2025}), \bibinfo{pages}{159207--159216}.
+\newblock
+\href{https://doi.org/10.1109/ACCESS.2025.3607595}{doi:\nolinkurl{10.1109/ACCESS.2025.3607595}}
+
+
+\bibitem[Alrashedy et~al\mbox{.}(2024)]%
+        {alrashedyLearningDefectPrediction2024}
+\bibfield{author}{\bibinfo{person}{Kamel Alrashedy}, \bibinfo{person}{Vincent~J. Hellendoorn}, {and} \bibinfo{person}{Alessandro Orso}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{Learning Defect Prediction from Unrealistic Data}}. In \bibinfo{booktitle}{\emph{International Conference on Software Analysis, Evolution and Reengineering (SANER)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Rovaniemi, Finland}, \bibinfo{pages}{556--567}.
+\newblock
 
 
 \bibitem[Ambati et~al\mbox{.}(2024)]%
@@ -102,6 +128,14 @@
 \newblock \showarticletitle{The Claude 3 Model Family: Opus, Sonnet, Haiku}.
 \newblock \bibinfo{journal}{\emph{Claude-3 Model Card}}  \bibinfo{volume}{1} (\bibinfo{year}{2024}), \bibinfo{pages}{1}.
 \newblock
+
+
+\bibitem[Aslan et~al\mbox{.}(2025)]%
+        {aslanUtilizingLargeProgramming2025}
+\bibfield{author}{\bibinfo{person}{Mert~Kaan Aslan}, \bibinfo{person}{Yunus~Emre Alkan}, \bibinfo{person}{Muhammed~Burak Alican}, {and} \bibinfo{person}{Özgür Özdemir}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Utilizing Large Programming Language Models on Software Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{Innovations in Intelligent Systems and Applications Conference (ASYU)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Bursa, Turkey}, \bibinfo{pages}{1--6}.
+\newblock
+\href{https://doi.org/10.1109/ASYU67174.2025.11208282}{doi:\nolinkurl{10.1109/ASYU67174.2025.11208282}}
 
 
 \bibitem[Atiiq et~al\mbox{.}(2024a)]%
@@ -204,9 +238,9 @@
 \bibitem[Cao et~al\mbox{.}(2024)]%
         {caoRealVulCanWe2024}
 \bibfield{author}{\bibinfo{person}{Di Cao}, \bibinfo{person}{Yong Liao}, {and} \bibinfo{person}{Xiuwei Shang}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?}}}
+\newblock \showarticletitle{{RealVul: Can We Detect Vulnerabilities in Web Applications with LLM?}}. In \bibinfo{booktitle}{\emph{Conference on Empirical Methods in Natural Language Processing (EMNLP)}}. \bibinfo{publisher}{ACL}, \bibinfo{address}{Miami, FL, USA}, \bibinfo{pages}{8268–8282}.
 \newblock
-\showeprint[arxiv]{2410.07573}
+\href{https://doi.org/10.18653/v1/2024.emnlp-main.472}{doi:\nolinkurl{10.18653/v1/2024.emnlp-main.472}}
 
 
 \bibitem[Carbonnelle(2025)]%
@@ -275,9 +309,9 @@
 \showeprint[arxiv]{2107.03374}
 
 
-\bibitem[Chen et~al\mbox{.}(2025)]%
+\bibitem[Chen et~al\mbox{.}(2025b)]%
         {chenImprovingVulnerabilityType2025}
-\bibfield{author}{\bibinfo{person}{Siyu Chen}, \bibinfo{person}{Jiongyi Yang}, \bibinfo{person}{Xiang Chen}, \bibinfo{person}{Menglin Zheng}, \bibinfo{person}{Minnan Wei}, {and} \bibinfo{person}{Xiaolin Ju}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{Siyu Chen}, \bibinfo{person}{Jiongyi Yang}, \bibinfo{person}{Xiang Chen}, \bibinfo{person}{Menglin Zheng}, \bibinfo{person}{Minnan Wei}, {and} \bibinfo{person}{Xiaolin Ju}.} \bibinfo{year}{2025}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{{Improving Vulnerability Type Prediction and Line-Level Detection via Adversarial Training-based Data Augmentation and Multi-Task Learning}}}.
 \newblock
 \showeprint[arxiv]{2506.23534}
@@ -297,6 +331,31 @@
 \newblock \showarticletitle{{Bridge and Hint: Extending Pre-trained Language Models for Long-Range Code}}. In \bibinfo{booktitle}{\emph{International Symposium on Software Testing and Analysis (ISSTA)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Vienna, Austria}, \bibinfo{pages}{274–286}.
 \newblock
 \href{https://doi.org/10.1145/3650212.3652127}{doi:\nolinkurl{10.1145/3650212.3652127}}
+
+
+\bibitem[Chen et~al\mbox{.}(2025a)]%
+        {chenGPTVDVulnerabilityDetection2026}
+\bibfield{author}{\bibinfo{person}{Yinan Chen}, \bibinfo{person}{Yuan Huang}, \bibinfo{person}{Xiangping Chen}, \bibinfo{person}{Pengfei Shen}, {and} \bibinfo{person}{Lei Yun}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{{GPTVD: vulnerability detection and analysis method based on LLM’s chain of thoughts}}.
+\newblock \bibinfo{journal}{\emph{Automated Software Engineering (ASE)}} \bibinfo{volume}{33}, \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{1--23}.
+\newblock
+\href{https://doi.org/10.1007/s10515-025-00550-4}{doi:\nolinkurl{10.1007/s10515-025-00550-4}}
+
+
+\bibitem[Chen and Zhang(2025)]%
+        {chenVulPrPromptLearningbased2025}
+\bibfield{author}{\bibinfo{person}{Zhuo Chen} {and} \bibinfo{person}{Xuejun Zhang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{VulPr: A Prompt Learning-based Method for Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Conference on Electronic Information Technology (EIT)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Valparaiso, IN, USA}, \bibinfo{pages}{594--597}.
+\newblock
+\href{https://doi.org/10.1109/EIT67313.2025.11231886}{doi:\nolinkurl{10.1109/EIT67313.2025.11231886}}
+
+
+\bibitem[Cheng et~al\mbox{.}(2025)]%
+        {chengLeveragingSelfPacedLearning2025}
+\bibfield{author}{\bibinfo{person}{Zeru Cheng}, \bibinfo{person}{Yanjing Yang}, \bibinfo{person}{He Zhang}, \bibinfo{person}{Lanxin Yang}, \bibinfo{person}{Jinghao Hu}, \bibinfo{person}{Jinwei Xu}, \bibinfo{person}{Bohan Liu}, {and} \bibinfo{person}{Haifeng Shen}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Leveraging Self-Paced Learning for Software Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2511.09212}
 
 
 \bibitem[Cheshkov et~al\mbox{.}(2023)]%
@@ -352,14 +411,6 @@
 \newblock \bibinfo{title}{{CVE – Common Vulnerabilities and Exposures}}.
 \newblock \bibinfo{howpublished}{\url{https://www.cve.org/}}.
 \newblock
-
-
-\bibitem[Dai et~al\mbox{.}(2025)]%
-        {daiComprehensiveStudyLLM2025}
-\bibfield{author}{\bibinfo{person}{Shih-Chieh Dai}, \bibinfo{person}{Jun Xu}, {and} \bibinfo{person}{Guanhong Tao}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{A Comprehensive Study of LLM Secure Code Generation}}}.
-\newblock
-\showeprint[arxiv]{2503.15554}
 
 
 \bibitem[d'Aloisio et~al\mbox{.}(2025)]%
@@ -482,17 +533,26 @@
 \bibitem[Du et~al\mbox{.}(2024)]%
         {duGeneralizationEnhancedCodeVulnerability2024}
 \bibfield{author}{\bibinfo{person}{Xiaohu Du}, \bibinfo{person}{Ming Wen}, \bibinfo{person}{Jiahao Zhu}, \bibinfo{person}{Zifan Xie}, \bibinfo{person}{Bin Ji}, \bibinfo{person}{Huijun Liu}, \bibinfo{person}{Xuanhua Shi}, {and} \bibinfo{person}{Hai Jin}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning}}}.
+\newblock \showarticletitle{{Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning}}. In \bibinfo{booktitle}{\emph{Findings of the Association for Computational Linguistics (ACL)}}. \bibinfo{publisher}{ACL}, \bibinfo{address}{Bangkok, Thailand}, \bibinfo{pages}{10507–10521}.
 \newblock
-\showeprint[arxiv]{2406.03718}
+\href{https://doi.org/10.18653/v1/2024.findings-acl.625}{doi:\nolinkurl{10.18653/v1/2024.findings-acl.625}}
 
 
-\bibitem[Du et~al\mbox{.}(2025)]%
+\bibitem[Du et~al\mbox{.}(2025a)]%
         {duVulRAGEnhancingLLMbased2024}
-\bibfield{author}{\bibinfo{person}{Xueying Du}, \bibinfo{person}{Geng Zheng}, \bibinfo{person}{Kaixin Wang}, \bibinfo{person}{Yi Zou}, \bibinfo{person}{Yujia Wang}, \bibinfo{person}{Wentai Deng}, \bibinfo{person}{Jiayi Feng}, \bibinfo{person}{Mingwei Liu}, \bibinfo{person}{Bihuan Chen}, \bibinfo{person}{Xin Peng}, \bibinfo{person}{Tao Ma}, {and} \bibinfo{person}{Yiling Lou}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{Xueying Du}, \bibinfo{person}{Geng Zheng}, \bibinfo{person}{Kaixin Wang}, \bibinfo{person}{Yi Zou}, \bibinfo{person}{Yujia Wang}, \bibinfo{person}{Wentai Deng}, \bibinfo{person}{Jiayi Feng}, \bibinfo{person}{Mingwei Liu}, \bibinfo{person}{Bihuan Chen}, \bibinfo{person}{Xin Peng}, \bibinfo{person}{Tao Ma}, {and} \bibinfo{person}{Yiling Lou}.} \bibinfo{year}{2025}\natexlab{a}.
 \newblock \bibinfo{booktitle}{\emph{{Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG}}}.
 \newblock
 \showeprint[arxiv]{2406.11147}
+
+
+\bibitem[Du et~al\mbox{.}(2025b)]%
+        {duDMVL4AVDDeepMultiview2025}
+\bibfield{author}{\bibinfo{person}{Xiaozhi Du}, \bibinfo{person}{Yanrong Zhou}, {and} \bibinfo{person}{Hongyuan Du}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{DMVL4AVD: A Deep Multi-View Learning Model for Automated Vulnerability Detection}}.
+\newblock \bibinfo{journal}{\emph{Neural Computing and Applications (Neural Comput. Appl.)}}  \bibinfo{volume}{37} (\bibinfo{year}{2025}), \bibinfo{pages}{5873–5889}.
+\newblock
+\href{https://doi.org/10.1007/s00521-024-10892-x}{doi:\nolinkurl{10.1007/s00521-024-10892-x}}
 
 
 \bibitem[Dubniczky et~al\mbox{.}(2025)]%
@@ -594,6 +654,14 @@
 \href{https://doi.org/10.1109/TSE.2025.3548168}{doi:\nolinkurl{10.1109/TSE.2025.3548168}}
 
 
+\bibitem[Flicke et~al\mbox{.}(2025)]%
+        {flicke2025scholarinboxpersonalizedpaper}
+\bibfield{author}{\bibinfo{person}{Markus Flicke}, \bibinfo{person}{Glenn Angrabeit}, \bibinfo{person}{Madhav Iyengar}, \bibinfo{person}{Vitalii Protsenko}, \bibinfo{person}{Illia Shakun}, \bibinfo{person}{Jovan Cicvaric}, \bibinfo{person}{Bora Kargi}, \bibinfo{person}{Haoyu He}, \bibinfo{person}{Lukas Schuler}, \bibinfo{person}{Lewin Scholz}, \bibinfo{person}{Kavyanjali Agnihotri}, \bibinfo{person}{Yong Cao}, {and} \bibinfo{person}{Andreas Geiger}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Scholar Inbox: Personalized Paper Recommendations for Scientists}}}.
+\newblock
+\showeprint[arxiv]{2504.08385}
+
+
 \bibitem[{FormAI Dataset}(2023)]%
         {FormAI_git}
 \bibfield{author}{\bibinfo{person}{{FormAI Dataset}}.} \bibinfo{year}{2023}\natexlab{}.
@@ -608,6 +676,15 @@
 \newblock \showarticletitle{{VulExplainer: A Transformer-Based Hierarchical Distillation for Explaining Vulnerability Types}}.
 \newblock \bibinfo{journal}{\emph{IEEE Transactions on Software Engineering (TSE)}} \bibinfo{volume}{49}, \bibinfo{number}{10} (\bibinfo{year}{2023}), \bibinfo{pages}{4550--4565}.
 \newblock
+
+
+\bibitem[Fu et~al\mbox{.}(2025b)]%
+        {fuAIDevSecOpsLandscape2025}
+\bibfield{author}{\bibinfo{person}{Michael Fu}, \bibinfo{person}{Jirat Pasuksmit}, {and} \bibinfo{person}{Chakkrit Tantithamthavorn}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{AI for DevSecOps: A Landscape and Future Opportunities}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology (TOSEM)}} \bibinfo{volume}{34}, \bibinfo{number}{4}, Article \bibinfo{articleno}{115} (\bibinfo{year}{2025}), \bibinfo{numpages}{61}~pages.
+\newblock
+\href{https://doi.org/10.1145/3712190}{doi:\nolinkurl{10.1145/3712190}}
 
 
 \bibitem[Fu and Tantithamthavorn(2022)]%
@@ -634,28 +711,36 @@
 \href{https://doi.org/10.1109/APSEC60848.2023.00085}{doi:\nolinkurl{10.1109/APSEC60848.2023.00085}}
 
 
-\bibitem[Fu et~al\mbox{.}(2025)]%
+\bibitem[Fu et~al\mbox{.}(2025a)]%
         {fuSecurityWeaknessesCopilot2024}
-\bibfield{author}{\bibinfo{person}{Yujia Fu}, \bibinfo{person}{Peng Liang}, \bibinfo{person}{Amjed Tahir}, \bibinfo{person}{Zengyang Li}, \bibinfo{person}{Mojtaba Shahin}, \bibinfo{person}{Jiaxin Yu}, {and} \bibinfo{person}{Jinfu Chen}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{Yujia Fu}, \bibinfo{person}{Peng Liang}, \bibinfo{person}{Amjed Tahir}, \bibinfo{person}{Zengyang Li}, \bibinfo{person}{Mojtaba Shahin}, \bibinfo{person}{Jiaxin Yu}, {and} \bibinfo{person}{Jinfu Chen}.} \bibinfo{year}{2025}\natexlab{a}.
 \newblock \bibinfo{booktitle}{\emph{{Security Weaknesses of Copilot-Generated Code in GitHub Projects: An Empirical Study}}}.
 \newblock
-\showeprint[arxiv]{2310.02059}
+\href{https://doi.org/10.1145/3716848}{doi:\nolinkurl{10.1145/3716848}}
 
 
-\bibitem[Gao et~al\mbox{.}(2023b)]%
+\bibitem[Gajjar et~al\mbox{.}(2025a)]%
+        {gajjarBridgingSemanticsStructure2025}
+\bibfield{author}{\bibinfo{person}{Jugal Gajjar}, \bibinfo{person}{Kaustik Ranaware}, {and} \bibinfo{person}{Kamalasankari Subramaniakuppusamy}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{{Bridging Semantics \& Structure for Software Vulnerability Detection using Hybrid Network Models}}}.
+\newblock
+\showeprint[arxiv]{2510.10321}
+
+
+\bibitem[Gajjar et~al\mbox{.}(2025b)]%
+        {gajjarMalCodeAIAutonomousVulnerability2025a}
+\bibfield{author}{\bibinfo{person}{Jugal Gajjar}, \bibinfo{person}{Kamalasankari Subramaniakuppusamy}, {and} \bibinfo{person}{Noha El~Kachach}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{MalCodeAI: Autonomous Vulnerability Detection and Remediation via Language Agnostic Code Reasoning}}. In \bibinfo{booktitle}{\emph{IEEE International Conference on Information Reuse and Integration and Data Science (IRI)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{San Jose, CA, USA}, \bibinfo{pages}{31--36}.
+\newblock
+\href{https://doi.org/10.1109/IRI66576.2025.00014}{doi:\nolinkurl{10.1109/IRI66576.2025.00014}}
+
+
+\bibitem[Gao et~al\mbox{.}(2023)]%
         {gaoKeepingPaceEverIncreasing2023}
-\bibfield{author}{\bibinfo{person}{Shuzheng Gao}, \bibinfo{person}{Hongyu Zhang}, \bibinfo{person}{Cuiyun Gao}, {and} \bibinfo{person}{Chaozheng Wang}.} \bibinfo{year}{2023}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{Shuzheng Gao}, \bibinfo{person}{Hongyu Zhang}, \bibinfo{person}{Cuiyun Gao}, {and} \bibinfo{person}{Chaozheng Wang}.} \bibinfo{year}{2023}\natexlab{}.
 \newblock \showarticletitle{{Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models}}. In \bibinfo{booktitle}{\emph{International Conference on Software Engineering (ICSE)}}. \bibinfo{publisher}{IEEE/ACM}, \bibinfo{address}{Melbourne, Australia}, \bibinfo{pages}{30--42}.
 \newblock
 \href{https://doi.org/10.1109/ICSE48619.2023.00015}{doi:\nolinkurl{10.1109/ICSE48619.2023.00015}}
-
-
-\bibitem[Gao et~al\mbox{.}(2023a)]%
-        {gaoHowFarHave2023}
-\bibfield{author}{\bibinfo{person}{Zeyu Gao}, \bibinfo{person}{Hao Wang}, \bibinfo{person}{Yuchen Zhou}, \bibinfo{person}{Wenyu Zhu}, {and} \bibinfo{person}{Chao Zhang}.} \bibinfo{year}{2023}\natexlab{a}.
-\newblock \bibinfo{booktitle}{\emph{{How Far Have We Gone in Vulnerability Detection Using Large Language Models}}}.
-\newblock
-\showeprint[arxiv]{2311.12420}
 
 
 \bibitem[Gao et~al\mbox{.}(2025)]%
@@ -666,13 +751,21 @@
 \showeprint[arxiv]{2506.03651}
 
 
-\bibitem[Ghafoor~Hussain et~al\mbox{.}(2025)]%
-        {hussainLeveragingEnhancedCodeBERTBased2025}
-\bibfield{author}{\bibinfo{person}{Rida Ghafoor~Hussain}, \bibinfo{person}{Kin-Choong Yow}, {and} \bibinfo{person}{Marco Gori}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{{Leveraging an Enhanced CodeBERT-Based Model for Multiclass Software Defect Prediction via Defect Classification}}.
-\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{13} (\bibinfo{year}{2025}), \bibinfo{pages}{24383--24397}.
+\bibitem[Germano et~al\mbox{.}(2025)]%
+        {germanoSystematicReviewDetection2025}
+\bibfield{author}{\bibinfo{person}{Lucas~Bastos Germano}, \bibinfo{person}{Ronaldo~Ribeiro Goldschmidt}, \bibinfo{person}{Ricardo~Choren Noya}, {and} \bibinfo{person}{Julio~Cesar Duarte}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{A Systematic Review on Detection, Repair, and Explanation of Vulnerabilities in Source Code Using Large Language Models}}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{13} (\bibinfo{year}{2025}), \bibinfo{pages}{192263--192293}.
 \newblock
-\href{https://doi.org/10.1109/ACCESS.2024.3525069}{doi:\nolinkurl{10.1109/ACCESS.2024.3525069}}
+\href{https://doi.org/10.1109/ACCESS.2025.3631363}{doi:\nolinkurl{10.1109/ACCESS.2025.3631363}}
+
+
+\bibitem[Gnieciak and Szandala(2025)]%
+        {gnieciakLargeLanguageModels2025}
+\bibfield{author}{\bibinfo{person}{Damian Gnieciak} {and} \bibinfo{person}{Tomasz Szandala}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2508.04448}
 
 
 \bibitem[Gon{\c{c}}alves et~al\mbox{.}(2025)]%
@@ -780,12 +873,28 @@
 \href{https://doi.org/10.3390/app14219697}{doi:\nolinkurl{10.3390/app14219697}}
 
 
+\bibitem[Hairan and Şahman(2025)]%
+        {hairanCompressingLargeLanguage2025}
+\bibfield{author}{\bibinfo{person}{Borhanullah Hairan} {and} \bibinfo{person}{Mehmet~Akif Şahman}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Compressing Large Language Models for SQL Injection Detection: A Case Study on Deep Seek-Coder and Meta-llama-3-70b-instruct}}. In \bibinfo{booktitle}{\emph{Conference of Open Innovations Association (FRUCT)}}. \bibinfo{publisher}{FRUCT Oy}, \bibinfo{address}{Helsinki, Finland}, \bibinfo{pages}{90--96}.
+\newblock
+\href{https://doi.org/10.23919/FRUCT67853.2025.11239157}{doi:\nolinkurl{10.23919/FRUCT67853.2025.11239157}}
+
+
 \bibitem[Halder et~al\mbox{.}(2025)]%
         {halderFuncVulEffectiveFunction2025}
 \bibfield{author}{\bibinfo{person}{Sajal Halder}, \bibinfo{person}{Muhammad~Ejaz Ahmed}, {and} \bibinfo{person}{Seyit Camtepe}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk}}}.
+\newblock \showarticletitle{{FuncVul: An Effective Function Level Vulnerability Detection Model using LLM and Code Chunk}}. In \bibinfo{booktitle}{\emph{European Symposium on Research in Computer Security (ESORICS)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Toulouse, France}, \bibinfo{pages}{166--185}.
 \newblock
-\showeprint[arxiv]{2506.19453}
+\href{https://doi.org/10.1007/978-3-032-07884-1_9}{doi:\nolinkurl{10.1007/978-3-032-07884-1_9}}
+
+
+\bibitem[Han and Zheng(2025)]%
+        {hanAutomaticClassificationModel2025}
+\bibfield{author}{\bibinfo{person}{Yaolin Han} {and} \bibinfo{person}{Wei Zheng}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{An Automatic Classification Model for Long Code Vulnerabilities Based on the Teacher-Student Framework}}. In \bibinfo{booktitle}{\emph{International Conference on Software Quality, Reliability, and Security (QRS) Companion}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Hangzhou, China}, \bibinfo{pages}{472--482}.
+\newblock
+\href{https://doi.org/10.1109/QRS-C65679.2025.00065}{doi:\nolinkurl{10.1109/QRS-C65679.2025.00065}}
 
 
 \bibitem[Han et~al\mbox{.}(2024)]%
@@ -802,6 +911,23 @@
 \newblock \showarticletitle{{VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Joint Conference on Neural Networks (IJCNN)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Padua, Italy}, \bibinfo{pages}{1--8}.
 \newblock
 \href{https://doi.org/10.1109/IJCNN55064.2022.9892280}{doi:\nolinkurl{10.1109/IJCNN55064.2022.9892280}}
+
+
+\bibitem[Hannan et~al\mbox{.}(2025)]%
+        {hannanSelectingFewShotExamples2025}
+\bibfield{author}{\bibinfo{person}{Md~Abdul Hannan}, \bibinfo{person}{Ronghao Ni}, \bibinfo{person}{Chi Zhang}, \bibinfo{person}{Limin Jia}, \bibinfo{person}{Ravi Mangal}, {and} \bibinfo{person}{Corina~S. Pasareanu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{On Selecting Few-Shot Examples for LLM-based Code Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2510.27675}
+
+
+\bibitem[Haque et~al\mbox{.}(2025)]%
+        {haqueZeroshotFrameworkCrossproject2026}
+\bibfield{author}{\bibinfo{person}{Radowanul Haque}, \bibinfo{person}{Aftab Ali}, \bibinfo{person}{Sally McClean}, {and} \bibinfo{person}{Naveed Khan}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{A Zero-Shot Framework for Cross-Project Vulnerability Detection in Source Code}}.
+\newblock \bibinfo{journal}{\emph{Empirical Software Engineering (EMSE)}} \bibinfo{volume}{31}, \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{3}.
+\newblock
+\href{https://doi.org/10.1007/s10664-025-10749-4}{doi:\nolinkurl{10.1007/s10664-025-10749-4}}
 
 
 \bibitem[He and Vechev(2023)]%
@@ -943,6 +1069,14 @@
 \href{https://doi.org/10.1145/3578527.3578530}{doi:\nolinkurl{10.1145/3578527.3578530}}
 
 
+\bibitem[Jararweh et~al\mbox{.}(2025)]%
+        {jararwehLLaVulMultimodalLLM2025}
+\bibfield{author}{\bibinfo{person}{Ala Jararweh}, \bibinfo{person}{Michael Adams}, \bibinfo{person}{Avinash Sahu}, \bibinfo{person}{Abdullah Mueen}, {and} \bibinfo{person}{Afsah Anwar}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{LLaVul: A Multimodal LLM for Interpretable Vulnerability Reasoning about Source Code}}. In \bibinfo{booktitle}{\emph{Intelligent Cybersecurity Conference (ICSC)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Tampa, FL, USA}, \bibinfo{pages}{232--241}.
+\newblock
+\href{https://doi.org/10.1109/ICSC65596.2025.11140501}{doi:\nolinkurl{10.1109/ICSC65596.2025.11140501}}
+
+
 \bibitem[Javaheripi et~al\mbox{.}(2023)]%
         {javaheripi2023phi2}
 \bibfield{author}{\bibinfo{person}{Mojan Javaheripi}, \bibinfo{person}{S{\'e}bastien Bubeck}, \bibinfo{person}{Marah Abdin}, \bibinfo{person}{Jyoti Aneja}, \bibinfo{person}{Sebastien Bubeck}, \bibinfo{person}{Caio C{\'e}sar~Teodoro Mendes}, \bibinfo{person}{Weizhu Chen}, \bibinfo{person}{Allie Del~Giorno}, \bibinfo{person}{Ronen Eldan}, \bibinfo{person}{Sivakanth Gopi}, {et~al\mbox{.}}} \bibinfo{year}{2023}\natexlab{}.
@@ -974,12 +1108,29 @@
 \showeprint[arxiv]{2401.04088}
 
 
-\bibitem[Jiang et~al\mbox{.}(2025)]%
+\bibitem[Jiang et~al\mbox{.}(2025b)]%
         {jiangInvestigatingLargeLanguage2024}
-\bibfield{author}{\bibinfo{person}{Xuefeng Jiang}, \bibinfo{person}{Lvhua Wu}, \bibinfo{person}{Sheng Sun}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Jingjing Xue}, \bibinfo{person}{Yuwei Wang}, \bibinfo{person}{Tingting Wu}, {and} \bibinfo{person}{Min Liu}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{Xuefeng Jiang}, \bibinfo{person}{Lvhua Wu}, \bibinfo{person}{Sheng Sun}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Jingjing Xue}, \bibinfo{person}{Yuwei Wang}, \bibinfo{person}{Tingting Wu}, {and} \bibinfo{person}{Min Liu}.} \bibinfo{year}{2025}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{{Investigating Large Language Models for Code Vulnerability Detection: An Experimental Study}}}.
 \newblock
 \showeprint[arxiv]{2412.18260}
+
+
+\bibitem[Jiang et~al\mbox{.}(2022)]%
+        {jiang2022multi}
+\bibfield{author}{\bibinfo{person}{Xuxiang Jiang}, \bibinfo{person}{Yinhao Xiao}, \bibinfo{person}{Jun Wang}, {and} \bibinfo{person}{Wei Zhang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{{Multi-view Pre-trained Model for Code Vulnerability Identification}}. In \bibinfo{booktitle}{\emph{International Conference on Wireless Algorithms, Systems, and Applications (WASA)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Dalian, China}, \bibinfo{pages}{127--135}.
+\newblock
+\href{https://doi.org/10.1007/978-3-031-19211-1_11}{doi:\nolinkurl{10.1007/978-3-031-19211-1_11}}
+
+
+\bibitem[Jiang et~al\mbox{.}(2025a)]%
+        {jiangEnhancingFineGrainedVulnerability2025a}
+\bibfield{author}{\bibinfo{person}{Yuan Jiang}, \bibinfo{person}{Zhichen Qu}, \bibinfo{person}{Christoph Treude}, \bibinfo{person}{Xiaohong Su}, {and} \bibinfo{person}{Tiantian Wang}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{{Enhancing Fine-Grained Vulnerability Detection With Reinforcement Learning}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Software Engineering (TSE)}} \bibinfo{volume}{51}, \bibinfo{number}{10} (\bibinfo{year}{2025}), \bibinfo{pages}{2900--2920}.
+\newblock
+\href{https://doi.org/10.1109/TSE.2025.3603400}{doi:\nolinkurl{10.1109/TSE.2025.3603400}}
 
 
 \bibitem[Jiang et~al\mbox{.}(2024c)]%
@@ -1005,6 +1156,15 @@
 \newblock \showarticletitle{{Code Defect Detection Method Based on BERT and Ensemble}}. In \bibinfo{booktitle}{\emph{International Conference on Computer and Communications (ICCC)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Chengdu, China}, \bibinfo{pages}{2130--2138}.
 \newblock
 \href{https://doi.org/10.1109/ICCC59590.2023.10507306}{doi:\nolinkurl{10.1109/ICCC59590.2023.10507306}}
+
+
+\bibitem[Jiao et~al\mbox{.}(2025)]%
+        {jiaoDeepVulHunterEnhancingCode2025}
+\bibfield{author}{\bibinfo{person}{Yutong Jiao}, \bibinfo{person}{Jiaxuan Han}, {and} \bibinfo{person}{Cheng Huang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{DeepVulHunter: Enhancing the Code Vulnerability Detection Capability of LLMs through Multi-Round Analysis}}.
+\newblock \bibinfo{journal}{\emph{Journal of Intelligent Information Systems (JIIS)}} \bibinfo{volume}{63}, \bibinfo{number}{6} (\bibinfo{year}{2025}), \bibinfo{pages}{2237--2264}.
+\newblock
+\href{https://doi.org/10.1007/s10844-025-00982-0}{doi:\nolinkurl{10.1007/s10844-025-00982-0}}
 
 
 \bibitem[Kaanan et~al\mbox{.}(2024)]%
@@ -1053,14 +1213,6 @@
 \newblock \bibinfo{booktitle}{\emph{{Boosting Cybersecurity Vulnerability Scanning based on LLM-supported Static Application Security Testing}}}.
 \newblock
 \showeprint[arxiv]{2409.15735}
-
-
-\bibitem[Khan et~al\mbox{.}(2025)]%
-        {khanCodeVulnerabilityRepair2024}
-\bibfield{author}{\bibinfo{person}{Arshiya Khan}, \bibinfo{person}{Guannan Liu}, {and} \bibinfo{person}{Xing Gao}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \showarticletitle{{Code Vulnerability Repair with Large Language Model Using Context-Aware Prompt Tuning}}. In \bibinfo{booktitle}{\emph{Security and Privacy Workshops (SPW)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{San Francisco, CA, USA}, \bibinfo{pages}{283--287}.
-\newblock
-\href{https://doi.org/10.1109/SPW67851.2025.00040}{doi:\nolinkurl{10.1109/SPW67851.2025.00040}}
 
 
 \bibitem[Khare et~al\mbox{.}(2025)]%
@@ -1151,6 +1303,13 @@
 \href{https://doi.org/10.1109/ICAIIC64266.2025.10920868}{doi:\nolinkurl{10.1109/ICAIIC64266.2025.10920868}}
 
 
+\bibitem[Lekssays et~al\mbox{.}(2025)]%
+        {lekssaysLLMxCPGContextAwareVulnerability2025}
+\bibfield{author}{\bibinfo{person}{Ahmed Lekssays}, \bibinfo{person}{Hamza Mouhcine}, \bibinfo{person}{Khang Tran}, \bibinfo{person}{Ting Yu}, {and} \bibinfo{person}{Issa Khalil}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models}}. In \bibinfo{booktitle}{\emph{34th USENIX Security Symposium (USENIX Security)}}. \bibinfo{publisher}{USENIX}, \bibinfo{address}{Seattle, WA, USA}, \bibinfo{pages}{489--507}.
+\newblock
+
+
 \bibitem[Lewis et~al\mbox{.}(2020)]%
         {lewis2020retrieval}
 \bibfield{author}{\bibinfo{person}{Patrick Lewis}, \bibinfo{person}{Ethan Perez}, \bibinfo{person}{Aleksandra Piktus}, \bibinfo{person}{Fabio Petroni}, \bibinfo{person}{Vladimir Karpukhin}, \bibinfo{person}{Naman Goyal}, \bibinfo{person}{Heinrich K{\"u}ttler}, \bibinfo{person}{Mike Lewis}, \bibinfo{person}{Wen-tau Yih}, \bibinfo{person}{Tim Rockt{\"a}schel}, {et~al\mbox{.}}} \bibinfo{year}{2020}\natexlab{}.
@@ -1167,12 +1326,28 @@
 \href{https://doi.org/10.1145/3649828}{doi:\nolinkurl{10.1145/3649828}}
 
 
-\bibitem[Li et~al\mbox{.}(2025b)]%
+\bibitem[Li et~al\mbox{.}(2025c)]%
+        {liVulnTeamTeamCollaboration2025}
+\bibfield{author}{\bibinfo{person}{Jiayuan Li}, \bibinfo{person}{Lei Cui}, \bibinfo{person}{Wenyan Yu}, \bibinfo{person}{Haiqiang Fei}, \bibinfo{person}{Feng Cheng}, {and} \bibinfo{person}{Hongsong Zhu}.} \bibinfo{year}{2025}\natexlab{c}.
+\newblock \showarticletitle{{VulnTeam: A Team Collaboration Framework for LLM-based Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Joint Conference on Neural Networks (IJCNN)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Rome, Italy}, \bibinfo{pages}{1--8}.
+\newblock
+\href{https://doi.org/10.1109/IJCNN64981.2025.11229292}{doi:\nolinkurl{10.1109/IJCNN64981.2025.11229292}}
+
+
+\bibitem[Li et~al\mbox{.}(2025d)]%
         {liSteeringLargeLanguage2025}
-\bibfield{author}{\bibinfo{person}{Jiayuan Li}, \bibinfo{person}{Lei Cui}, \bibinfo{person}{Jie Zhang}, \bibinfo{person}{Haiqiang Fei}, \bibinfo{person}{Yu Chen}, {and} \bibinfo{person}{Hongsong Zhu}.} \bibinfo{year}{2025}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{Jiayuan Li}, \bibinfo{person}{Lei Cui}, \bibinfo{person}{Jie Zhang}, \bibinfo{person}{Haiqiang Fei}, \bibinfo{person}{Yu Chen}, {and} \bibinfo{person}{Hongsong Zhu}.} \bibinfo{year}{2025}\natexlab{d}.
 \newblock \showarticletitle{{Steering Large Language Models for Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Conference on Acoustics, Speech and Signal Processing (ICASSP)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Hyderabad, India}, \bibinfo{pages}{1--5}.
 \newblock
 \href{https://doi.org/10.1109/ICASSP49660.2025.10887736}{doi:\nolinkurl{10.1109/ICASSP49660.2025.10887736}}
+
+
+\bibitem[Li et~al\mbox{.}(2025e)]%
+        {liCLeVeRMultimodalContrastive}
+\bibfield{author}{\bibinfo{person}{Jiayuan Li}, \bibinfo{person}{Lei Cui}, \bibinfo{person}{Sen Zhao}, \bibinfo{person}{Yun Yang}, \bibinfo{person}{Lun Li}, {and} \bibinfo{person}{Hongsong Zhu}.} \bibinfo{year}{2025}\natexlab{e}.
+\newblock \showarticletitle{{CLeVeR: Multi-modal Contrastive Learning for Vulnerability Code Representation}}. In \bibinfo{booktitle}{\emph{Findings of the Association for Computational Linguistics (ACL)}}. \bibinfo{publisher}{ACL}, \bibinfo{address}{Vienna, Austria}, \bibinfo{pages}{7940--7951}.
+\newblock
+\href{https://doi.org/10.18653/v1/2025.findings-acl.414}{doi:\nolinkurl{10.18653/v1/2025.findings-acl.414}}
 
 
 \bibitem[Li et~al\mbox{.}(2021)]%
@@ -1188,14 +1363,6 @@
 \newblock \bibinfo{booktitle}{\emph{{StarCoder: may the source be with you!}}}
 \newblock
 \showeprint[arxiv]{2305.06161}
-
-
-\bibitem[Li et~al\mbox{.}(2025c)]%
-        {liSafeGenBenchBenchmarkFramework2025}
-\bibfield{author}{\bibinfo{person}{Xinghang Li}, \bibinfo{person}{Jingzhe Ding}, \bibinfo{person}{Chao Peng}, \bibinfo{person}{Bing Zhao}, \bibinfo{person}{Xiang Gao}, \bibinfo{person}{Hongwan Gao}, {and} \bibinfo{person}{Xinchen Gu}.} \bibinfo{year}{2025}\natexlab{c}.
-\newblock \bibinfo{booktitle}{\emph{{SafeGenBench: A Benchmark Framework for Security Vulnerability Detection in LLM-Generated Code}}}.
-\newblock
-\showeprint[arxiv]{2506.05692}
 
 
 \bibitem[Li(2024)]%
@@ -1214,28 +1381,59 @@
 \href{https://doi.org/10.1109/SP61157.2025.00191}{doi:\nolinkurl{10.1109/SP61157.2025.00191}}
 
 
-\bibitem[Li et~al\mbox{.}(2025e)]%
+\bibitem[Li et~al\mbox{.}(2025b)]%
+        {liOutDistributionOut2025}
+\bibfield{author}{\bibinfo{person}{Yikun Li}, \bibinfo{person}{Ngoc~Tan Bui}, \bibinfo{person}{Ting Zhang}, \bibinfo{person}{Martin Weyssow}, \bibinfo{person}{Chengran Yang}, \bibinfo{person}{Xin Zhou}, \bibinfo{person}{Jinfeng Jiang}, \bibinfo{person}{Junkai Chen}, \bibinfo{person}{Huihui Huang}, \bibinfo{person}{Huu~Hung Nguyen}, \bibinfo{person}{Chiok~Yew Ho}, \bibinfo{person}{Jie Tan}, \bibinfo{person}{Ruiyin Li}, \bibinfo{person}{Yide Yin}, \bibinfo{person}{Han~Wei Ang}, \bibinfo{person}{Frank Liauw}, \bibinfo{person}{Eng~Lieh Ouh}, \bibinfo{person}{Lwin~Khin Shar}, {and} \bibinfo{person}{David Lo}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{{Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?}}}
+\newblock
+\showeprint[arxiv]{2507.21817}
+
+
+\bibitem[Li et~al\mbox{.}(2025h)]%
+        {liMAVULMultiAgentVulnerability2025}
+\bibfield{author}{\bibinfo{person}{Youpeng Li}, \bibinfo{person}{Kartik Joshi}, \bibinfo{person}{Xinda Wang}, {and} \bibinfo{person}{Eric Wong}.} \bibinfo{year}{2025}\natexlab{h}.
+\newblock \bibinfo{booktitle}{\emph{{MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement}}}.
+\newblock
+\showeprint[arxiv]{2510.00317}
+
+
+\bibitem[Li et~al\mbox{.}(2025i)]%
         {liEverythingYouWanted2025}
-\bibfield{author}{\bibinfo{person}{Yue Li}, \bibinfo{person}{Xiao Li}, \bibinfo{person}{Hao Wu}, \bibinfo{person}{Minghui Xu}, \bibinfo{person}{Yue Zhang}, \bibinfo{person}{Xiuzhen Cheng}, \bibinfo{person}{Fengyuan Xu}, {and} \bibinfo{person}{Sheng Zhong}.} \bibinfo{year}{2025}\natexlab{e}.
+\bibfield{author}{\bibinfo{person}{Yue Li}, \bibinfo{person}{Xiao Li}, \bibinfo{person}{Hao Wu}, \bibinfo{person}{Minghui Xu}, \bibinfo{person}{Yue Zhang}, \bibinfo{person}{Xiuzhen Cheng}, \bibinfo{person}{Fengyuan Xu}, {and} \bibinfo{person}{Sheng Zhong}.} \bibinfo{year}{2025}\natexlab{i}.
 \newblock \bibinfo{booktitle}{\emph{{Everything You Wanted to Know About LLM-based Vulnerability Detection But Were Afraid to Ask}}}.
 \newblock
 \showeprint[arxiv]{2504.13474}
 
 
-\bibitem[Li et~al\mbox{.}(2025f)]%
+\bibitem[Li et~al\mbox{.}(2025j)]%
+        {liRevisitingPretrainedLanguage2025}
+\bibfield{author}{\bibinfo{person}{Youpeng Li}, \bibinfo{person}{Weiliang Qi}, \bibinfo{person}{Xuyu Wang}, \bibinfo{person}{Fuxun Yu}, {and} \bibinfo{person}{Xinda Wang}.} \bibinfo{year}{2025}\natexlab{j}.
+\newblock \bibinfo{booktitle}{\emph{{Revisiting Pre-trained Language Models for Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2507.16887}
+
+
+\bibitem[Li et~al\mbox{.}(2025k)]%
         {liCleanVulAutomaticFunctionLevel2024}
-\bibfield{author}{\bibinfo{person}{Yikun Li}, \bibinfo{person}{Ting Zhang}, \bibinfo{person}{Ratnadira Widyasari}, \bibinfo{person}{Yan~Naing Tun}, \bibinfo{person}{Huu~Hung Nguyen}, \bibinfo{person}{Tan Bui}, \bibinfo{person}{Ivana~Clairine Irsan}, \bibinfo{person}{Yiran Cheng}, \bibinfo{person}{Xiang Lan}, \bibinfo{person}{Han~Wei Ang}, \bibinfo{person}{Frank Liauw}, \bibinfo{person}{Martin Weyssow}, \bibinfo{person}{Hong~Jin Kang}, \bibinfo{person}{Eng~Lieh Ouh}, \bibinfo{person}{Lwin~Khin Shar}, {and} \bibinfo{person}{David Lo}.} \bibinfo{year}{2025}\natexlab{f}.
+\bibfield{author}{\bibinfo{person}{Yikun Li}, \bibinfo{person}{Ting Zhang}, \bibinfo{person}{Ratnadira Widyasari}, \bibinfo{person}{Yan~Naing Tun}, \bibinfo{person}{Huu~Hung Nguyen}, \bibinfo{person}{Tan Bui}, \bibinfo{person}{Ivana~Clairine Irsan}, \bibinfo{person}{Yiran Cheng}, \bibinfo{person}{Xiang Lan}, \bibinfo{person}{Han~Wei Ang}, \bibinfo{person}{Frank Liauw}, \bibinfo{person}{Martin Weyssow}, \bibinfo{person}{Hong~Jin Kang}, \bibinfo{person}{Eng~Lieh Ouh}, \bibinfo{person}{Lwin~Khin Shar}, {and} \bibinfo{person}{David Lo}.} \bibinfo{year}{2025}\natexlab{k}.
 \newblock \bibinfo{booktitle}{\emph{{CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics}}}.
 \newblock
 \showeprint[arxiv]{2411.17274}
 
 
-\bibitem[Li et~al\mbox{.}(2025d)]%
+\bibitem[Li et~al\mbox{.}(2025f)]%
         {liLLMAssistedStaticAnalysis2024}
-\bibfield{author}{\bibinfo{person}{Ziyang Li}, \bibinfo{person}{Saikat Dutta}, {and} \bibinfo{person}{Mayur Naik}.} \bibinfo{year}{2025}\natexlab{d}.
-\newblock \bibinfo{booktitle}{\emph{{IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities}}}.
+\bibfield{author}{\bibinfo{person}{Ziyang Li}, \bibinfo{person}{Saikat Dutta}, {and} \bibinfo{person}{Mayur Naik}.} \bibinfo{year}{2025}\natexlab{f}.
+\newblock \showarticletitle{{IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities}}. In \bibinfo{booktitle}{\emph{International Conference on Learning Representations (ICLR)}}. \bibinfo{publisher}{ICLR}, \bibinfo{address}{Singapore, Singapore}.
 \newblock
-\showeprint[arxiv]{2405.17238}
+
+
+\bibitem[Li et~al\mbox{.}(2025g)]%
+        {liCryptoScopeUtilizingLarge2025}
+\bibfield{author}{\bibinfo{person}{Zhihao Li}, \bibinfo{person}{Zimo Ji}, \bibinfo{person}{Tao Zheng}, \bibinfo{person}{Hao Ren}, {and} \bibinfo{person}{Xiao Lan}.} \bibinfo{year}{2025}\natexlab{g}.
+\newblock \bibinfo{booktitle}{\emph{{CryptoScope: Utilizing Large Language Models for Automated Cryptographic Logic Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2508.11599}
 
 
 \bibitem[Li et~al\mbox{.}(2018)]%
@@ -1244,6 +1442,13 @@
 \newblock \showarticletitle{{VulDeePecker: A Deep Learning-Based System for Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{Network and Distributed Systems Security Symposium (NDSS)}}. \bibinfo{publisher}{The Internet Society}, \bibinfo{address}{San Diego, CA, USA}, \bibinfo{pages}{1--15}.
 \newblock
 \href{https://doi.org/10.14722/ndss.2018.23158}{doi:\nolinkurl{10.14722/ndss.2018.23158}}
+
+
+\bibitem[Liang et~al\mbox{.}(2024)]%
+        {liangSourceCodeVulnerability2024}
+\bibfield{author}{\bibinfo{person}{Chen Liang}, \bibinfo{person}{Qiang Wei}, \bibinfo{person}{Zirui Jiang}, \bibinfo{person}{Yisen Wang}, {and} \bibinfo{person}{Jiang Du}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{A Source Code Vulnerability Detection Method Based on Adaptive Graph Neural Networks}}. In \bibinfo{booktitle}{\emph{IEEE/ACM International Conference on Automated Software Engineering (ASE) Workshops}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Sacramento, CA, USA}, \bibinfo{pages}{187--196}.
+\newblock
 
 
 \bibitem[Lin et~al\mbox{.}(2022a)]%
@@ -1280,25 +1485,18 @@
 \href{https://doi.org/10.1109/DSN-W54100.2022.00032}{doi:\nolinkurl{10.1109/DSN-W54100.2022.00032}}
 
 
-\bibitem[Lingxiang et~al\mbox{.}(2025)]%
-        {lingxiangSAVANTVulnerabilityDetection2025}
-\bibfield{author}{\bibinfo{person}{Wang Lingxiang}, \bibinfo{person}{Quanzhi Fu}, \bibinfo{person}{Wenjia Song}, \bibinfo{person}{Gelei Deng}, \bibinfo{person}{Yi Liu}, \bibinfo{person}{Dan Williams}, {and} \bibinfo{person}{Ying Zhang}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{SAVANT: Vulnerability Detection in Application Dependencies through Semantic-Guided Reachability Analysis}}}.
+\bibitem[Liu et~al\mbox{.}(2024a)]%
+        {liuMakingVulnerabilityPrediction2024}
+\bibfield{author}{\bibinfo{person}{Chongyang Liu}, \bibinfo{person}{Xiang Chen}, \bibinfo{person}{Xiangwei Li}, {and} \bibinfo{person}{Yinxing Xue}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{{Making Vulnerability Prediction more Practical: Prediction, Categorization, and Localization}}.
+\newblock \bibinfo{journal}{\emph{Information and Software Technology (IST)}}  \bibinfo{volume}{171} (\bibinfo{year}{2024}), \bibinfo{pages}{107458}.
 \newblock
-\showeprint[arxiv]{2506.17798}
+\href{https://doi.org/10.1016/j.infsof.2024.107458}{doi:\nolinkurl{10.1016/j.infsof.2024.107458}}
 
 
-\bibitem[Liu et~al\mbox{.}(2025b)]%
-        {liuVADERHumanEvaluatedBenchmark2025}
-\bibfield{author}{\bibinfo{person}{Ethan~TS. Liu}, \bibinfo{person}{Austin Wang}, \bibinfo{person}{Spencer Mateega}, \bibinfo{person}{Carlos Georgescu}, {and} \bibinfo{person}{Danny Tang}.} \bibinfo{year}{2025}\natexlab{b}.
-\newblock \bibinfo{booktitle}{\emph{{VADER: A Human-Evaluated Benchmark for Vulnerability Assessment, Detection, Explanation, and Remediation}}}.
-\newblock
-\showeprint[arxiv]{2505.19395}
-
-
-\bibitem[Liu et~al\mbox{.}(2024b)]%
+\bibitem[Liu et~al\mbox{.}(2024c)]%
         {liuExploringEvaluatingHallucinations2024}
-\bibfield{author}{\bibinfo{person}{Fang Liu}, \bibinfo{person}{Yang Liu}, \bibinfo{person}{Lin Shi}, \bibinfo{person}{Houkun Huang}, \bibinfo{person}{Ruifeng Wang}, \bibinfo{person}{Zhen Yang}, \bibinfo{person}{Li Zhang}, \bibinfo{person}{Zhongqi Li}, {and} \bibinfo{person}{Yuchi Ma}.} \bibinfo{year}{2024}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{Fang Liu}, \bibinfo{person}{Yang Liu}, \bibinfo{person}{Lin Shi}, \bibinfo{person}{Houkun Huang}, \bibinfo{person}{Ruifeng Wang}, \bibinfo{person}{Zhen Yang}, \bibinfo{person}{Li Zhang}, \bibinfo{person}{Zhongqi Li}, {and} \bibinfo{person}{Yuchi Ma}.} \bibinfo{year}{2024}\natexlab{c}.
 \newblock \bibinfo{booktitle}{\emph{{Exploring and Evaluating Hallucinations in LLM-Powered Code Generation}}}.
 \newblock
 \showeprint[arxiv]{2404.00971}
@@ -1313,34 +1511,27 @@
 \href{https://doi.org/10.1016/j.jisa.2024.103925}{doi:\nolinkurl{10.1016/j.jisa.2024.103925}}
 
 
-\bibitem[Liu et~al\mbox{.}(2023b)]%
-        {liuEmpiricalStudyParameterEfficient2023}
-\bibfield{author}{\bibinfo{person}{Jiaxing Liu}, \bibinfo{person}{Chaofeng Sha}, {and} \bibinfo{person}{Xin Peng}.} \bibinfo{year}{2023}\natexlab{b}.
-\newblock \showarticletitle{An Empirical Study of Parameter-Efficient Fine-Tuning Methods for Pre-Trained Code Models}. In \bibinfo{booktitle}{\emph{International Conference on Automated Software Engineering (ASE)}}. \bibinfo{publisher}{IEEE/ACM}, \bibinfo{address}{Kirchberg, Luxembourg}, \bibinfo{pages}{397--408}.
-\newblock
-\href{https://doi.org/10.1109/ASE56229.2023.00125}{doi:\nolinkurl{10.1109/ASE56229.2023.00125}}
-
-
-\bibitem[Liu et~al\mbox{.}(2025c)]%
+\bibitem[Liu et~al\mbox{.}(2025b)]%
         {liuVulLMGNNsFusingLanguage2025}
-\bibfield{author}{\bibinfo{person}{Ruitong Liu}, \bibinfo{person}{Yanbin Wang}, \bibinfo{person}{Haitao Xu}, \bibinfo{person}{Jianguo Sun}, \bibinfo{person}{Fan Zhang}, \bibinfo{person}{Peiyue Li}, {and} \bibinfo{person}{Zhenhao Guo}.} \bibinfo{year}{2025}\natexlab{c}.
+\bibfield{author}{\bibinfo{person}{Ruitong Liu}, \bibinfo{person}{Yanbin Wang}, \bibinfo{person}{Haitao Xu}, \bibinfo{person}{Jianguo Sun}, \bibinfo{person}{Fan Zhang}, \bibinfo{person}{Peiyue Li}, {and} \bibinfo{person}{Zhenhao Guo}.} \bibinfo{year}{2025}\natexlab{b}.
 \newblock \showarticletitle{{Vul-LMGNNs: Fusing Language Models and Online-distilled Graph Neural Networks for Code Vulnerability Detection}}.
 \newblock \bibinfo{journal}{\emph{Information Fusion}}  \bibinfo{volume}{115} (\bibinfo{year}{2025}), \bibinfo{pages}{102748}.
 \newblock
 \href{https://doi.org/10.1016/j.inffus.2024.102748}{doi:\nolinkurl{10.1016/j.inffus.2024.102748}}
 
 
-\bibitem[Liu et~al\mbox{.}(2024c)]%
-        {liuSolitaryDirectivesInteractive2024}
-\bibfield{author}{\bibinfo{person}{Shigang Liu}, \bibinfo{person}{Bushra Sabir}, \bibinfo{person}{Seung~Ick Jang}, \bibinfo{person}{Yuval Kansal}, \bibinfo{person}{Yansong Gao}, \bibinfo{person}{Kristen Moore}, \bibinfo{person}{Alsharif Abuadbba}, {and} \bibinfo{person}{Surya Nepal}.} \bibinfo{year}{2024}\natexlab{c}.
-\newblock \bibinfo{booktitle}{\emph{{From Solitary Directives to Interactive Encouragement! LLM Secure Code Generation by Natural Language Prompting}}}.
+\bibitem[Liu et~al\mbox{.}(2026)]%
+        {liuPIONEERImprovingRobustness2026}
+\bibfield{author}{\bibinfo{person}{Xiangyue Liu}, \bibinfo{person}{Xinwei Liu}, \bibinfo{person}{Lili Bo}, \bibinfo{person}{Xiaoxue Wu}, \bibinfo{person}{Yun Yang}, \bibinfo{person}{Xiaobing Sun}, {and} \bibinfo{person}{Feng Zhou}.} \bibinfo{year}{2026}\natexlab{}.
+\newblock \showarticletitle{{PIONEER: Improving the Robustness of Student Models when Compressing Pre-Trained Models of Code}}.
+\newblock \bibinfo{journal}{\emph{Automated Software Engineering (ASE)}} \bibinfo{volume}{33}, \bibinfo{number}{1} (\bibinfo{year}{2026}), \bibinfo{pages}{1--30}.
 \newblock
-\showeprint[arxiv]{2410.14321}
+\href{https://doi.org/10.1007/s10515-025-00560-2}{doi:\nolinkurl{10.1007/s10515-025-00560-2}}
 
 
-\bibitem[Liu et~al\mbox{.}(2024a)]%
+\bibitem[Liu et~al\mbox{.}(2024b)]%
         {liuVulDetectBenchEvaluatingDeep2024}
-\bibfield{author}{\bibinfo{person}{Yu Liu}, \bibinfo{person}{Lang Gao}, \bibinfo{person}{Mingxin Yang}, \bibinfo{person}{Yu Xie}, \bibinfo{person}{Ping Chen}, \bibinfo{person}{Xiaojin Zhang}, {and} \bibinfo{person}{Wei Chen}.} \bibinfo{year}{2024}\natexlab{a}.
+\bibfield{author}{\bibinfo{person}{Yu Liu}, \bibinfo{person}{Lang Gao}, \bibinfo{person}{Mingxin Yang}, \bibinfo{person}{Yu Xie}, \bibinfo{person}{Ping Chen}, \bibinfo{person}{Xiaojin Zhang}, {and} \bibinfo{person}{Wei Chen}.} \bibinfo{year}{2024}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{{VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models}}}.
 \newblock
 \showeprint[arxiv]{2406.07595}
@@ -1354,9 +1545,9 @@
 \showeprint[arxiv]{1907.11692}
 
 
-\bibitem[Liu et~al\mbox{.}(2023a)]%
+\bibitem[Liu et~al\mbox{.}(2023)]%
         {liuSoftwareVulnerabilityDetection2023}
-\bibfield{author}{\bibinfo{person}{Zhihong Liu}, \bibinfo{person}{Qing Liao}, \bibinfo{person}{Wenchao Gu}, {and} \bibinfo{person}{Cuiyun Gao}.} \bibinfo{year}{2023}\natexlab{a}.
+\bibfield{author}{\bibinfo{person}{Zhihong Liu}, \bibinfo{person}{Qing Liao}, \bibinfo{person}{Wenchao Gu}, {and} \bibinfo{person}{Cuiyun Gao}.} \bibinfo{year}{2023}\natexlab{}.
 \newblock \showarticletitle{{Software Vulnerability Detection with GPT and In-Context Learning}}. In \bibinfo{booktitle}{\emph{International Conference on Data Science in Cyberspace (DSC)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Hefei, China}, \bibinfo{pages}{229--236}.
 \newblock
 \href{https://doi.org/10.1109/DSC59305.2023.00041}{doi:\nolinkurl{10.1109/DSC59305.2023.00041}}
@@ -1451,6 +1642,14 @@
 \href{https://doi.org/10.1109/ISDFS65363.2025.11012039}{doi:\nolinkurl{10.1109/ISDFS65363.2025.11012039}}
 
 
+\bibitem[Maligazhdarova et~al\mbox{.}(2025)]%
+        {maligazhdarovaComparativeStudyMachine2025}
+\bibfield{author}{\bibinfo{person}{Nargiz Maligazhdarova}, \bibinfo{person}{Avinash B.~M.}, \bibinfo{person}{Assel Mukasheva}, \bibinfo{person}{Didar Yedilkhan}, \bibinfo{person}{Aidos Askhatuly}, {and} \bibinfo{person}{A. Berdyshev}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{A Comparative Study of Machine Learning and Large Language Models for SQL and NoSQL Injection Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{IEEE International Conference on Smart Information Systems and Technologies (SIST)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Astana, Kazakhstan}, \bibinfo{pages}{1--7}.
+\newblock
+\href{https://doi.org/10.1109/SIST61657.2025.11139190}{doi:\nolinkurl{10.1109/SIST61657.2025.11139190}}
+
+
 \bibitem[Mamede et~al\mbox{.}(2022)]%
         {mamedeExploringTransformersMultiLabel2022}
 \bibfield{author}{\bibinfo{person}{Cláudia Mamede}, \bibinfo{person}{Eduard Pinconschi}, \bibinfo{person}{Rui Abreu}, {and} \bibinfo{person}{José Campos}.} \bibinfo{year}{2022}\natexlab{}.
@@ -1459,20 +1658,13 @@
 \href{https://doi.org/10.1109/QRS57517.2022.00015}{doi:\nolinkurl{10.1109/QRS57517.2022.00015}}
 
 
-\bibitem[Manuel et~al\mbox{.}(2024)]%
-        {manuelEnhancingReverseEngineering2024a}
-\bibfield{author}{\bibinfo{person}{Dylan Manuel}, \bibinfo{person}{Nafis~Tanveer Islam}, \bibinfo{person}{Joseph Khoury}, \bibinfo{person}{Ana Nunez}, \bibinfo{person}{Elias Bou-Harb}, {and} \bibinfo{person}{Peyman Najafirad}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries}}}.
-\newblock
-\showeprint[arxiv]{2411.04981}
-
-
 \bibitem[Mao et~al\mbox{.}(2025)]%
         {maoEffectivelyDetectingExplaining2024}
 \bibfield{author}{\bibinfo{person}{Qiheng Mao}, \bibinfo{person}{Zhenhao Li}, \bibinfo{person}{Xing Hu}, \bibinfo{person}{Kui Liu}, \bibinfo{person}{Xin Xia}, {and} \bibinfo{person}{Jianling Sun}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Towards Explainable Vulnerability Detection with Large Language Models}}}.
+\newblock \showarticletitle{{Towards Explainable Vulnerability Detection With Large Language Models}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Software Engineering (TSE)}} \bibinfo{volume}{51}, \bibinfo{number}{10} (\bibinfo{year}{2025}), \bibinfo{pages}{2957--2971}.
 \newblock
-\showeprint[arxiv]{2406.09701}
+\href{https://doi.org/10.1109/TSE.2025.3605442}{doi:\nolinkurl{10.1109/TSE.2025.3605442}}
 
 
 \bibitem[Mathews et~al\mbox{.}(2024)]%
@@ -1540,6 +1732,14 @@
 \newblock
 
 
+\bibitem[Mhatre et~al\mbox{.}(2025)]%
+        {mhatreLLMGUARDLargeLanguage2025}
+\bibfield{author}{\bibinfo{person}{Akshay Mhatre}, \bibinfo{person}{Noujoud Nader}, \bibinfo{person}{Patrick Diehl}, {and} \bibinfo{person}{Deepti Gupta}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python}}}.
+\newblock
+\showeprint[arxiv]{2508.16419}
+
+
 \bibitem[{MITRE}(2023a)]%
         {cwe1000}
 \bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2023}\natexlab{a}.
@@ -1580,6 +1780,14 @@
 \newblock
 
 
+\bibitem[Mock et~al\mbox{.}(2025)]%
+        {mockCrossDomainEvaluationTransformerBased2025}
+\bibfield{author}{\bibinfo{person}{Moritz Mock}, \bibinfo{person}{Thomas Forrer}, {and} \bibinfo{person}{Barbara Russo}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open and Industry Data}}. In \bibinfo{booktitle}{\emph{International Conference on Product-Focused Software Process Improvement (PROFES)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Salerno, Italy}, \bibinfo{pages}{36--52}.
+\newblock
+\href{https://doi.org/10.1007/978-3-032-12092-2_3}{doi:\nolinkurl{10.1007/978-3-032-12092-2_3}}
+
+
 \bibitem[Mohajer et~al\mbox{.}(2024)]%
         {mohajerEffectivenessChatGPTStatic2024}
 \bibfield{author}{\bibinfo{person}{Mohammad~Mahdi Mohajer}, \bibinfo{person}{Reem Aleithan}, \bibinfo{person}{Nima~Shiri Harzevili}, \bibinfo{person}{Moshi Wei}, \bibinfo{person}{Alvine~Boaye Belle}, \bibinfo{person}{Hung~Viet Pham}, {and} \bibinfo{person}{Song Wang}.} \bibinfo{year}{2024}\natexlab{}.
@@ -1594,14 +1802,6 @@
 \newblock \bibinfo{title}{{CVEfixes Dataset: Automatically Collected Vulnerabilities and Their Fixes from Open-Source Software}}.
 \newblock \bibinfo{howpublished}{\url{https://zenodo.org/records/13118970}}.
 \newblock
-
-
-\bibitem[Mou et~al\mbox{.}(2025)]%
-        {mouCanYouReally2025}
-\bibfield{author}{\bibinfo{person}{Yutao Mou}, \bibinfo{person}{Xiao Deng}, \bibinfo{person}{Yuxiao Luo}, \bibinfo{person}{Shikun Zhang}, {and} \bibinfo{person}{Wei Ye}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective}}}.
-\newblock
-\showeprint[arxiv]{2505.10494}
 
 
 \bibitem[Munson et~al\mbox{.}(2025)]%
@@ -1620,12 +1820,37 @@
 \showeprint[arxiv]{2504.13676}
 
 
-\bibitem[Nguyen et~al\mbox{.}(2024)]%
-        {nguyenSAFEAdvancingLarge2024}
-\bibfield{author}{\bibinfo{person}{Van Nguyen}, \bibinfo{person}{Surya Nepal}, \bibinfo{person}{Tingmin Wu}, \bibinfo{person}{Xingliang Yuan}, {and} \bibinfo{person}{Carsten Rudolph}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{SAFE: Advancing Large Language Models in Leveraging Semantic and Syntactic Relationships for Software Vulnerability Detection}}}.
+\bibitem[Ngan et~al\mbox{.}(2025)]%
+        {nganMultimodalFusionVulnerability2025}
+\bibfield{author}{\bibinfo{person}{Nguyen Dac~Thien Ngan}, \bibinfo{person}{Nghi~Hoang Khoa}, \bibinfo{person}{Van-Hau Pham}, {and} \bibinfo{person}{Phan~The Duy}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Multimodal Fusion for Vulnerability Detection: Integrating Sequence and Graph-Based Analysis with LLM Augmentation}}. In \bibinfo{booktitle}{\emph{International Conference on Multimedia Analysis and Pattern Recognition (MAPR)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Nha Trang, Vietnam}, \bibinfo{pages}{1--6}.
 \newblock
-\showeprint[arxiv]{2409.00882}
+\href{https://doi.org/10.1109/MAPR67746.2025.11133833}{doi:\nolinkurl{10.1109/MAPR67746.2025.11133833}}
+
+
+\bibitem[Nguyen et~al\mbox{.}(2025a)]%
+        {nguyenHumanUnderstandableExplanationSoftware2024}
+\bibfield{author}{\bibinfo{person}{Hong~Quy Nguyen}, \bibinfo{person}{Thong Hoang}, \bibinfo{person}{Hoa~Khanh Dam}, \bibinfo{person}{Guoxin Su}, \bibinfo{person}{Zhenchang Xing}, \bibinfo{person}{Qinghua Lu}, {and} \bibinfo{person}{Jiamou Sun}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{{Human-Understandable Explanation for Software Vulnerability Prediction}}.
+\newblock \bibinfo{journal}{\emph{Journal of Systems and Software (JSS)}}  \bibinfo{volume}{228} (\bibinfo{year}{2025}), \bibinfo{pages}{112455}.
+\newblock
+\href{https://doi.org/10.1016/j.jss.2025.112455}{doi:\nolinkurl{10.1016/j.jss.2025.112455}}
+
+
+\bibitem[Nguyen et~al\mbox{.}(2025c)]%
+        {nguyenMulVulnEnhancingPretrained2025}
+\bibfield{author}{\bibinfo{person}{Van Nguyen}, \bibinfo{person}{Surya Nepal}, \bibinfo{person}{Xingliang Yuan}, \bibinfo{person}{Tingmin Wu}, \bibinfo{person}{Fengchao Chen}, {and} \bibinfo{person}{Carsten Rudolph}.} \bibinfo{year}{2025}\natexlab{c}.
+\newblock \bibinfo{booktitle}{\emph{{MulVuln: Enhancing Pre-trained LMs with Shared and Language-Specific Knowledge for Multilingual Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2510.04397}
+
+
+\bibitem[Nguyen et~al\mbox{.}(2025b)]%
+        {nguyenSAFEAdvancingLarge2024}
+\bibfield{author}{\bibinfo{person}{Van Nguyen}, \bibinfo{person}{Surya Nepal}, \bibinfo{person}{Xingliang Yuan}, \bibinfo{person}{Tingmin Wu}, {and} \bibinfo{person}{Carsten Rudolph}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{SAFE: A Novel Approach For Software Vulnerability Detection from Enhancing The Capability of Large Language Models}}. In \bibinfo{booktitle}{\emph{ACM Asia Conference on Computer and Communications Security (ASIACCS)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Ha Noi, Vietnam}, \bibinfo{pages}{392–406}.
+\newblock
+\href{https://doi.org/10.1145/3708821.3736208}{doi:\nolinkurl{10.1145/3708821.3736208}}
 
 
 \bibitem[Ni et~al\mbox{.}(2023a)]%
@@ -1636,20 +1861,21 @@
 \href{https://doi.org/10.1109/ASE56229.2023.00084}{doi:\nolinkurl{10.1109/ASE56229.2023.00084}}
 
 
-\bibitem[Ni et~al\mbox{.}(2024a)]%
-        {niLearningbasedModelsVulnerability2024}
-\bibfield{author}{\bibinfo{person}{Chao Ni}, \bibinfo{person}{Liyu Shen}, \bibinfo{person}{Xiaodan Xu}, \bibinfo{person}{Xin Yin}, {and} \bibinfo{person}{Shaohua Wang}.} \bibinfo{year}{2024}\natexlab{a}.
-\newblock \bibinfo{booktitle}{\emph{{Learning-based Models for Vulnerability Detection: An Extensive Study}}}.
-\newblock
-\showeprint[arxiv]{2408.07526}
-
-
-\bibitem[Ni et~al\mbox{.}(2024b)]%
+\bibitem[Ni et~al\mbox{.}(2024)]%
         {MegaVul}
-\bibfield{author}{\bibinfo{person}{Chao Ni}, \bibinfo{person}{Liyu Shen}, \bibinfo{person}{Xiaohu Yang}, \bibinfo{person}{Yan Zhu}, {and} \bibinfo{person}{Shaohua Wang}.} \bibinfo{year}{2024}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{Chao Ni}, \bibinfo{person}{Liyu Shen}, \bibinfo{person}{Xiaohu Yang}, \bibinfo{person}{Yan Zhu}, {and} \bibinfo{person}{Shaohua Wang}.} \bibinfo{year}{2024}\natexlab{}.
 \newblock \showarticletitle{{MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representations}}. In \bibinfo{booktitle}{\emph{International Conference on Mining Software Repositories (MSR)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Lisbon, Portugal}, \bibinfo{pages}{738–742}.
 \newblock
 \href{https://doi.org/10.1145/3643991.3644886}{doi:\nolinkurl{10.1145/3643991.3644886}}
+
+
+\bibitem[Ni et~al\mbox{.}(2025)]%
+        {niLearningbasedModelsVulnerability2024}
+\bibfield{author}{\bibinfo{person}{Chao Ni}, \bibinfo{person}{Xin Yin}, \bibinfo{person}{Liyu Shen}, {and} \bibinfo{person}{Shaohua Wang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Learning-based Models for Vulnerability Detection: An Extensive Study}}.
+\newblock \bibinfo{journal}{\emph{Empirical Software Engineering (EMSE)}} \bibinfo{volume}{31}, \bibinfo{number}{18} (\bibinfo{year}{2025}), \bibinfo{pages}{38}.
+\newblock
+\href{https://doi.org/10.1007/s10664-025-10734-x}{doi:\nolinkurl{10.1007/s10664-025-10734-x}}
 
 
 \bibitem[Ni et~al\mbox{.}(2023b)]%
@@ -1701,14 +1927,6 @@
 \href{https://doi.org/10.1109/TSE.2022.3207149}{doi:\nolinkurl{10.1109/TSE.2022.3207149}}
 
 
-\bibitem[Nunez et~al\mbox{.}(2024)]%
-        {nunezAutoSafeCoderMultiAgentFramework2024}
-\bibfield{author}{\bibinfo{person}{Ana Nunez}, \bibinfo{person}{Nafis~Tanveer Islam}, \bibinfo{person}{Sumit~Kumar Jha}, {and} \bibinfo{person}{Peyman Najafirad}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing}}}.
-\newblock
-\showeprint[arxiv]{2409.10737}
-
-
 \bibitem[NVD(2025)]%
         {NVD}
 \bibfield{author}{\bibinfo{person}{NVD}.} \bibinfo{year}{2025}\natexlab{}.
@@ -1741,6 +1959,14 @@
 \showeprint[arxiv]{2303.08774}
 
 
+\bibitem[Ouchebara and Dupont(2025)]%
+        {ouchebaraLlamabasedSourceCode2025}
+\bibfield{author}{\bibinfo{person}{Dyna~Soumhane Ouchebara} {and} \bibinfo{person}{St{\'e}phane Dupont}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Llama-Based Source Code Vulnerability Detection: Prompt Engineering vs Fine Tuning}}. In \bibinfo{booktitle}{\emph{European Symposium on Research in Computer Security (ESORICS)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Toulouse, France}, \bibinfo{pages}{289--308}.
+\newblock
+\href{https://doi.org/10.1007/978-3-032-07884-1_15}{doi:\nolinkurl{10.1007/978-3-032-07884-1_15}}
+
+
 \bibitem[Ozturk et~al\mbox{.}(2023)]%
         {ozturkNewTricksOld2023}
 \bibfield{author}{\bibinfo{person}{Omer~Said Ozturk}, \bibinfo{person}{Emre Ekmekcioglu}, \bibinfo{person}{Orcun Cetin}, \bibinfo{person}{Budi Arief}, {and} \bibinfo{person}{Julio Hernandez-Castro}.} \bibinfo{year}{2023}\natexlab{}.
@@ -1749,12 +1975,13 @@
 \href{https://doi.org/10.1145/3590777.3590780}{doi:\nolinkurl{10.1145/3590777.3590780}}
 
 
-\bibitem[Pan et~al\mbox{.}(2021)]%
-        {panEmpiricalStudySoftware2021}
-\bibfield{author}{\bibinfo{person}{Cong Pan}, \bibinfo{person}{Minyan Lu}, {and} \bibinfo{person}{Biao Xu}.} \bibinfo{year}{2021}\natexlab{}.
-\newblock \showarticletitle{{An Empirical Study on Software Defect Prediction Using CodeBERT Model}}.
-\newblock \bibinfo{journal}{\emph{Applied Sciences}} \bibinfo{volume}{11}, \bibinfo{number}{11} (\bibinfo{year}{2021}), \bibinfo{pages}{4793}.
+\bibitem[Pan et~al\mbox{.}(2024)]%
+        {panUnifyingLargeLanguage2024}
+\bibfield{author}{\bibinfo{person}{Shirui Pan}, \bibinfo{person}{Linhao Luo}, \bibinfo{person}{Yufei Wang}, \bibinfo{person}{Chen Chen}, \bibinfo{person}{Jiapu Wang}, {and} \bibinfo{person}{Xindong Wu}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{Unifying Large Language Models and Knowledge Graphs: A Roadmap}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Knowledge and Data Engineering (TKDE)}} \bibinfo{volume}{36}, \bibinfo{number}{7} (\bibinfo{year}{2024}), \bibinfo{pages}{3580--3599}.
 \newblock
+\href{https://doi.org/10.1109/TKDE.2024.3352100}{doi:\nolinkurl{10.1109/TKDE.2024.3352100}}
 
 
 \bibitem[Panichella(2025)]%
@@ -1790,6 +2017,14 @@
 \href{https://doi.org/10.1109/SCAM59687.2023.00026}{doi:\nolinkurl{10.1109/SCAM59687.2023.00026}}
 
 
+\bibitem[Peng et~al\mbox{.}(2025)]%
+        {pengICodeReviewerImprovingSecure2025}
+\bibfield{author}{\bibinfo{person}{Yun Peng}, \bibinfo{person}{Kisub Kim}, \bibinfo{person}{Linghan Meng}, {and} \bibinfo{person}{Kui Liu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{iCodeReviewer: Improving Secure Code Review with Mixture of Prompts}}}.
+\newblock
+\showeprint[arxiv]{2510.12186}
+
+
 \bibitem[Petersen et~al\mbox{.}(2015)]%
         {petersenGuidelinesConductingSystematic2015}
 \bibfield{author}{\bibinfo{person}{Kai Petersen}, \bibinfo{person}{Sairam Vakkalanka}, {and} \bibinfo{person}{Ludwik Kuzniarz}.} \bibinfo{year}{2015}\natexlab{}.
@@ -1797,6 +2032,16 @@
 \newblock \bibinfo{journal}{\emph{Information and Software Technology (INFSOF)}}  \bibinfo{volume}{64} (\bibinfo{year}{2015}), \bibinfo{pages}{1--18}.
 \newblock
 \href{https://doi.org/10.1016/j.infsof.2015.03.007}{doi:\nolinkurl{10.1016/j.infsof.2015.03.007}}
+
+
+\bibitem[Pham et~al\mbox{.}(2024)]%
+        {phamDefectscannerComparativeEmpirical2024}
+\bibfield{author}{\bibinfo{person}{Van-Hau Pham}, \bibinfo{person}{Do~Thi~Thu Hien}, \bibinfo{person}{Hien~Do Hoang}, {and} \bibinfo{person}{Phan~The Duy}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Defect-Scanner: A Comparative Empirical Study on Language Model and Deep Learning Approach for Software Vulnerability Detection}.
+\newblock \bibinfo{journal}{\emph{International Journal of Information Security (IJIS)}}  \bibinfo{volume}{23} (\bibinfo{year}{2024}), \bibinfo{pages}{1--14}.
+\newblock
+Issue 6.
+\href{https://doi.org/10.1007/s10207-024-00901-4}{doi:\nolinkurl{10.1007/s10207-024-00901-4}}
 
 
 \bibitem[Pinconschi(2020)]%
@@ -1815,6 +2060,14 @@
 \newblock
 
 
+\bibitem[Prasad et~al\mbox{.}(2025)]%
+        {prasadSinkVulnerabilityType2025}
+\bibfield{author}{\bibinfo{person}{Rupesh Prasad}, \bibinfo{person}{Lokesh B}, \bibinfo{person}{Swathika~Nivedini D}, \bibinfo{person}{Piyush~Pratap Singh}, \bibinfo{person}{Arvind Maurya}, {and} \bibinfo{person}{Atul Singh}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Sink Vulnerability Type Prediction Using Small Language Model (SLM)}}. In \bibinfo{booktitle}{\emph{International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Greater Noida, India}, \bibinfo{pages}{496--501}.
+\newblock
+\href{https://doi.org/10.1109/IC3ECSBHI63591.2025.10991300}{doi:\nolinkurl{10.1109/IC3ECSBHI63591.2025.10991300}}
+
+
 \bibitem[Purba et~al\mbox{.}(2023)]%
         {purbaSoftwareVulnerabilityDetection2023}
 \bibfield{author}{\bibinfo{person}{Moumita~Das Purba}, \bibinfo{person}{Arpita Ghosh}, \bibinfo{person}{Benjamin~J. Radford}, {and} \bibinfo{person}{Bill Chu}.} \bibinfo{year}{2023}\natexlab{}.
@@ -1826,9 +2079,17 @@
 \bibitem[Qi et~al\mbox{.}(2024)]%
         {qiEnhancingPreTrainedLanguage2024}
 \bibfield{author}{\bibinfo{person}{Weiliang Qi}, \bibinfo{person}{Jiahao Cao}, \bibinfo{person}{Darsh Poddar}, \bibinfo{person}{Sophia Li}, {and} \bibinfo{person}{Xinda Wang}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Enhancing Pre-Trained Language Models for Vulnerability Detection via Semantic-Preserving Data Augmentation}}}.
+\newblock \showarticletitle{{Software Vulnerability Detection using Large Language Models}}. In \bibinfo{booktitle}{\emph{International Conference on Security and Privacy in Communication Systems (SecureComm)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Dubai, United Arab Emirates}, \bibinfo{pages}{184--203}.
 \newblock
-\showeprint[arxiv]{2410.00249}
+\href{https://doi.org/10.1007/978-3-031-94458-1_9}{doi:\nolinkurl{10.1007/978-3-031-94458-1_9}}
+
+
+\bibitem[Qian et~al\mbox{.}(2025)]%
+        {qianSoftwareVulnerabilityAnalysis2025a}
+\bibfield{author}{\bibinfo{person}{Zhuoyun Qian}, \bibinfo{person}{Fangtian Zhong}, \bibinfo{person}{Qin Hu}, \bibinfo{person}{Yili Jiang}, \bibinfo{person}{Jiaqi Huang}, \bibinfo{person}{Mengfei Ren}, {and} \bibinfo{person}{Jiguo Yu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Software Vulnerability Analysis Across Programming Language and Program Representation Landscapes: A Survey}}}.
+\newblock
+\showeprint[arxiv]{2503.20244}
 
 
 \bibitem[Quan et~al\mbox{.}(2025)]%
@@ -1929,6 +2190,14 @@
 \showeprint[arxiv]{2308.12950}
 
 
+\bibitem[Ruohonen(2021)]%
+        {ruohonenSimilaritiesSoftwareVulnerabilities2021}
+\bibfield{author}{\bibinfo{person}{Jukka Ruohonen}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{The Similarities of Software Vulnerabilities for Interpreted Programming Languages}}. In \bibinfo{booktitle}{\emph{IEEE International Conference on Progress in Informatics and Computing (PIC)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Shanghai, China}, \bibinfo{pages}{304--307}.
+\newblock
+\href{https://doi.org/10.1109/PIC53636.2021.9687053}{doi:\nolinkurl{10.1109/PIC53636.2021.9687053}}
+
+
 \bibitem[Russell et~al\mbox{.}(2018)]%
         {Draper}
 \bibfield{author}{\bibinfo{person}{Rebecca Russell}, \bibinfo{person}{Louis Kim}, \bibinfo{person}{Lei Hamilton}, \bibinfo{person}{Tomo Lazovich}, \bibinfo{person}{Jacob Harer}, \bibinfo{person}{Onur Ozdemir}, \bibinfo{person}{Paul Ellingwood}, {and} \bibinfo{person}{Marc McConley}.} \bibinfo{year}{2018}\natexlab{}.
@@ -1945,21 +2214,20 @@
 \href{https://doi.org/10.1109/ICPC66645.2025.00017}{doi:\nolinkurl{10.1109/ICPC66645.2025.00017}}
 
 
-\bibitem[Safdar et~al\mbox{.}(2023)]%
-        {safdarDeepLearningBasedFramework2023}
-\bibfield{author}{\bibinfo{person}{Rijha Safdar}, \bibinfo{person}{M.~Umer Ashfaq}, {and} \bibinfo{person}{Danyail Mateen}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \showarticletitle{{Deep Learning-Based Framework for Automated Vulnerability Detection in Android Applications}}. In \bibinfo{booktitle}{\emph{International Bhurban Conference on Applied Sciences and Technology (IBCAST)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Bhurban, Murree, Pakistan}, \bibinfo{pages}{1--5}.
+\bibitem[Safdar et~al\mbox{.}(2025b)]%
+        {safdarDataContextMatter2025}
+\bibfield{author}{\bibinfo{person}{Rijha Safdar}, \bibinfo{person}{Danyail Mateen}, \bibinfo{person}{Syed~Taha Ali}, \bibinfo{person}{M.~Umer Ashfaq}, {and} \bibinfo{person}{Wajahat Hussain}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \bibinfo{booktitle}{\emph{{Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection}}}.
 \newblock
-\href{https://doi.org/10.1109/IBCAST59916.2023.10713017}{doi:\nolinkurl{10.1109/IBCAST59916.2023.10713017}}
+\showeprint[arxiv]{2508.16625}
 
 
-\bibitem[Sahar et~al\mbox{.}(2024)]%
-        {saharDPCCLSupervisedContrastive2024}
-\bibfield{author}{\bibinfo{person}{Sadia Sahar}, \bibinfo{person}{Muhammad Younas}, \bibinfo{person}{Muhammad~Murad Khan}, {and} \bibinfo{person}{Muhammad~Umer Sarwar}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \showarticletitle{{DP-CCL: A Supervised Contrastive Learning Approach Using CodeBERT Model in Software Defect Prediction}}.
-\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}), \bibinfo{pages}{22582--22594}.
+\bibitem[Safdar et~al\mbox{.}(2025a)]%
+        {safdarRealVulLLMLLMBased2025}
+\bibfield{author}{\bibinfo{person}{Rijha Safdar}, \bibinfo{person}{Danyail Mateen}, \bibinfo{person}{Syed~Taha Ali}, {and} \bibinfo{person}{Wajahat Hussain}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{{Real-VulLLM: An LLM Based Assessment Framework in the Wild}}}.
 \newblock
-\href{https://doi.org/10.1109/ACCESS.2024.3362896}{doi:\nolinkurl{10.1109/ACCESS.2024.3362896}}
+\showeprint[arxiv]{2510.04056}
 
 
 \bibitem[Saimbhi and Akpinar(2024)]%
@@ -1978,20 +2246,20 @@
 \showeprint[arxiv]{1910.01108}
 
 
+\bibitem[Sayagh and Ghafari(2025)]%
+        {sayaghThinkBroadAct2025}
+\bibfield{author}{\bibinfo{person}{Mohammed Sayagh} {and} \bibinfo{person}{Mohammad Ghafari}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models}}}.
+\newblock
+\showeprint[arxiv]{2508.01451}
+
+
 \bibitem[{Security \& Software Engineering Research Lab at University of Notre Dame}(2022)]%
         {SecurityEval_git}
 \bibfield{author}{\bibinfo{person}{{Security \& Software Engineering Research Lab at University of Notre Dame}}.} \bibinfo{year}{2022}\natexlab{}.
 \newblock \bibinfo{title}{{SecurityEval}}.
 \newblock \bibinfo{howpublished}{\url{https://github.com/s2e-lab/SecurityEval}}.
 \newblock
-
-
-\bibitem[Seo et~al\mbox{.}(2025)]%
-        {seoAutoPatchMultiAgentFramework2025}
-\bibfield{author}{\bibinfo{person}{Minjae Seo}, \bibinfo{person}{Wonwoo Choi}, \bibinfo{person}{Myoungsung You}, {and} \bibinfo{person}{Seungwon Shin}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities}}}.
-\newblock
-\showeprint[arxiv]{2505.04195}
 
 
 \bibitem[Shahzad et~al\mbox{.}(2025)]%
@@ -2004,18 +2272,18 @@
 
 \bibitem[Shashwat et~al\mbox{.}(2024)]%
         {shashwatPreliminaryStudyUsing}
-\bibfield{author}{\bibinfo{person}{Kumar Shashwat}, \bibinfo{person}{Francis Hahn}, \bibinfo{person}{Xinming Ou}, \bibinfo{person}{Dmitry Goldgof}, \bibinfo{person}{Lawrence Hall}, \bibinfo{person}{Jay Ligatti}, \bibinfo{person}{S.~Raj Rajgopalan}, {and} \bibinfo{person}{Armin~Ziaie Tabari}.} \bibinfo{year}{2024}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{A Preliminary Study on Using Large Language Models in Software Pentesting}}}.
+\bibfield{author}{\bibinfo{person}{K Shashwat}, \bibinfo{person}{F Hahn}, \bibinfo{person}{X Ou}, \bibinfo{person}{D Goldgof}, \bibinfo{person}{J Ligatti}, \bibinfo{person}{L Hall}, \bibinfo{person}{R Rajagopalan}, {and} \bibinfo{person}{A Tabari}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{A Preliminary Study on Using Large Language Models in Software Pentesting}}. In \bibinfo{booktitle}{\emph{Network and Distributed System Security (NDSS) Symposium: Workshop on SOC Operations and Construction}}. \bibinfo{publisher}{NDSS Symposium}, \bibinfo{address}{Marina del Rey, CA, USA}.
 \newblock
-\showeprint[arxiv]{2401.17459}
 
 
 \bibitem[Sheng et~al\mbox{.}(2025)]%
         {sheng2025large}
 \bibfield{author}{\bibinfo{person}{Ze Sheng}, \bibinfo{person}{Zhicheng Chen}, \bibinfo{person}{Shuning Gu}, \bibinfo{person}{Heqing Huang}, \bibinfo{person}{Guofei Gu}, {and} \bibinfo{person}{Jeff Huang}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights}}}.
+\newblock \showarticletitle{{LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights}}.
+\newblock \bibinfo{journal}{\emph{Comput. Surveys}} \bibinfo{volume}{58}, \bibinfo{number}{5}, Article \bibinfo{articleno}{134} (\bibinfo{year}{2025}), \bibinfo{numpages}{35}~pages.
 \newblock
-\showeprint[arxiv]{2502.07049}
+\href{https://doi.org/10.1145/3769082}{doi:\nolinkurl{10.1145/3769082}}
 
 
 \bibitem[Sheng et~al\mbox{.}(2024)]%
@@ -2099,20 +2367,20 @@
 \href{https://doi.org/10.1145/3549035.3561184}{doi:\nolinkurl{10.1145/3549035.3561184}}
 
 
+\bibitem[Simoni et~al\mbox{.}(2025)]%
+        {simoniImprovingLLMReasoning2025}
+\bibfield{author}{\bibinfo{person}{Marco Simoni}, \bibinfo{person}{Aleksandar Fontana}, \bibinfo{person}{Giulio Rossolini}, {and} \bibinfo{person}{Andrea Saracino}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization}}}.
+\newblock
+\showeprint[arxiv]{2507.03051}
+
+
 \bibitem[Singh et~al\mbox{.}(2022)]%
         {singhCyberSecurityVulnerability2022}
 \bibfield{author}{\bibinfo{person}{Kanchan Singh}, \bibinfo{person}{Sakshi~S Grover}, {and} \bibinfo{person}{Ranjini~Kishen Kumar}.} \bibinfo{year}{2022}\natexlab{}.
 \newblock \showarticletitle{{Cyber Security Vulnerability Detection Using Natural Language Processing}}. In \bibinfo{booktitle}{\emph{World AI IoT Congress (AIIoT)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Seattle, WA, USA}, \bibinfo{pages}{174--178}.
 \newblock
 \href{https://doi.org/10.1109/AIIoT54504.2022.9817336}{doi:\nolinkurl{10.1109/AIIoT54504.2022.9817336}}
-
-
-\bibitem[Song et~al\mbox{.}(2023)]%
-        {songSoftwareDefectPrediction2023}
-\bibfield{author}{\bibinfo{person}{Wei Song}, \bibinfo{person}{Lu Gan}, {and} \bibinfo{person}{Tie Bao}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \showarticletitle{{Software Defect Prediction via Code Language Models}}. In \bibinfo{booktitle}{\emph{International Conference on Communication Technology and Information Technology (ICCTIT)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Xi'an, China}, \bibinfo{pages}{97--102}.
-\newblock
-\href{https://doi.org/10.1109/ICCTIT60726.2023.10435711}{doi:\nolinkurl{10.1109/ICCTIT60726.2023.10435711}}
 
 
 \bibitem[Sovrano et~al\mbox{.}(2025)]%
@@ -2196,12 +2464,29 @@
 \href{https://doi.org/10.1109/ISCC58397.2023.10217978}{doi:\nolinkurl{10.1109/ISCC58397.2023.10217978}}
 
 
-\bibitem[Sun et~al\mbox{.}(2025)]%
+\bibitem[Sun et~al\mbox{.}(2025c)]%
+        {sunHgtJITJustinTimeVulnerability2025}
+\bibfield{author}{\bibinfo{person}{Xiaobing Sun}, \bibinfo{person}{Mingxuan Zhou}, \bibinfo{person}{Sicong Cao}, \bibinfo{person}{Xiaoxue Wu}, \bibinfo{person}{Lili Bo}, \bibinfo{person}{Di Wu}, \bibinfo{person}{Bin Li}, {and} \bibinfo{person}{Yang Xiang}.} \bibinfo{year}{2025}\natexlab{c}.
+\newblock \showarticletitle{{HgtJIT: Just-in-Time Vulnerability Detection Based on Heterogeneous Graph Transformer}}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Dependable and Secure Computing (TDSC)}} \bibinfo{volume}{22}, \bibinfo{number}{6} (\bibinfo{year}{2025}), \bibinfo{pages}{1--17}.
+\newblock
+\href{https://doi.org/10.1109/TDSC.2025.3586669}{doi:\nolinkurl{10.1109/TDSC.2025.3586669}}
+
+
+\bibitem[Sun et~al\mbox{.}(2025b)]%
         {sunLLM4VulnUnifiedEvaluation2024}
-\bibfield{author}{\bibinfo{person}{Yuqiang Sun}, \bibinfo{person}{Daoyuan Wu}, \bibinfo{person}{Yue Xue}, \bibinfo{person}{Han Liu}, \bibinfo{person}{Wei Ma}, \bibinfo{person}{Lyuye Zhang}, \bibinfo{person}{Yang Liu}, {and} \bibinfo{person}{Yingjiu Li}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{Yuqiang Sun}, \bibinfo{person}{Daoyuan Wu}, \bibinfo{person}{Yue Xue}, \bibinfo{person}{Han Liu}, \bibinfo{person}{Wei Ma}, \bibinfo{person}{Lyuye Zhang}, \bibinfo{person}{Yang Liu}, {and} \bibinfo{person}{Yingjiu Li}.} \bibinfo{year}{2025}\natexlab{b}.
 \newblock \bibinfo{booktitle}{\emph{{LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning}}}.
 \newblock
 \showeprint[arxiv]{2401.16185}
+
+
+\bibitem[Sun et~al\mbox{.}(2025a)]%
+        {sunEnsemblingLargeLanguage2025}
+\bibfield{author}{\bibinfo{person}{Zhihong Sun}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Yao Wan}, \bibinfo{person}{Chuanyi Li}, \bibinfo{person}{Hongyu Zhang}, \bibinfo{person}{Zhi jin}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Hong Liu}, \bibinfo{person}{Chen Lyu}, {and} \bibinfo{person}{Songlin Hu}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{{Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation}}}.
+\newblock
+\showeprint[arxiv]{2509.12629}
 
 
 \bibitem[Sun et~al\mbox{.}(2024)]%
@@ -2212,14 +2497,6 @@
 \href{https://doi.org/10.1109/ICFTIC64248.2024.10913325}{doi:\nolinkurl{10.1109/ICFTIC64248.2024.10913325}}
 
 
-\bibitem[Szab{\'o} and Bilicki(2023)]%
-        {szaboNewApproachWeb2023}
-\bibfield{author}{\bibinfo{person}{Zolt{\'a}n Szab{\'o}} {and} \bibinfo{person}{Vilmos Bilicki}.} \bibinfo{year}{2023}\natexlab{}.
-\newblock \showarticletitle{{A New Approach to Web Application Security: Utilizing GPT Language Models for Source Code Inspection}}.
-\newblock \bibinfo{journal}{\emph{Future Internet}} \bibinfo{volume}{15}, \bibinfo{number}{10} (\bibinfo{year}{2023}), \bibinfo{pages}{326}.
-\newblock
-
-
 \bibitem[Taghavi~Far and Feyzi(2025)]%
         {taghavi2025large}
 \bibfield{author}{\bibinfo{person}{Seyed~Mohammad Taghavi~Far} {and} \bibinfo{person}{Farid Feyzi}.} \bibinfo{year}{2025}\natexlab{}.
@@ -2227,6 +2504,14 @@
 \newblock \bibinfo{journal}{\emph{International Journal of Information Security (IJIS)}} \bibinfo{volume}{24}, \bibinfo{number}{2} (\bibinfo{year}{2025}), \bibinfo{pages}{78}.
 \newblock
 \href{https://doi.org/10.1007/s10207-025-00992-7}{doi:\nolinkurl{10.1007/s10207-025-00992-7}}
+
+
+\bibitem[Takieldeen et~al\mbox{.}(2025)]%
+        {takieldeenAIPoweredVulnerabilityDetection2025}
+\bibfield{author}{\bibinfo{person}{Ali~E. Takieldeen}, \bibinfo{person}{Merna Gamal}, \bibinfo{person}{Abdelrahman~Ahmed Salah}, \bibinfo{person}{Mohamed Walid}, \bibinfo{person}{Abdelrahman~Mohamed Mahmoud}, \bibinfo{person}{khaled Ahmed}, \bibinfo{person}{Saleh~Tamer Abdallah}, \bibinfo{person}{Nada~Samir Elsayed}, {and} \bibinfo{person}{Aida~A. Nasr}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{AI-Powered Vulnerability Detection in Code Using BERT-Based LLM with Transparency Measures}}. In \bibinfo{booktitle}{\emph{International Telecommunications Conference (ITC-Egypt)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Cairo, Egypt}, \bibinfo{pages}{297--304}.
+\newblock
+\href{https://doi.org/10.1109/ITC-Egypt66095.2025.11186618}{doi:\nolinkurl{10.1109/ITC-Egypt66095.2025.11186618}}
 
 
 \bibitem[Tamberg and Bahsi(2025)]%
@@ -2286,6 +2571,14 @@
 \showeprint[arxiv]{2506.10988}
 
 
+\bibitem[Tian and Zhang(2025)]%
+        {tianEFVDFrameworkSource2025}
+\bibfield{author}{\bibinfo{person}{Lei Tian} {and} \bibinfo{person}{Cheng Zhang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{EFVD: A Framework of Source Code Vulnerability Detection via Fusion of Enhanced Graph Representation Learning and Pre-trained Transformer-Based Model}}. In \bibinfo{booktitle}{\emph{International Conference on Computer Network Security and Software Engineering (CNSSE)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Qingdao, China}, \bibinfo{pages}{316–320}.
+\newblock
+\href{https://doi.org/10.1145/3732365.3732421}{doi:\nolinkurl{10.1145/3732365.3732421}}
+
+
 \bibitem[Tian et~al\mbox{.}(2024)]%
         {tianSQLInjectionVulnerability2024}
 \bibfield{author}{\bibinfo{person}{Zonghang Tian}, \bibinfo{person}{Shuting Lou}, \bibinfo{person}{Yingying Zhang}, \bibinfo{person}{Zhengdan Jiang}, {and} \bibinfo{person}{Xingkai Cheng}.} \bibinfo{year}{2024}\natexlab{}.
@@ -2334,12 +2627,21 @@
 \href{https://doi.org/10.1109/CDMA61895.2025.00034}{doi:\nolinkurl{10.1109/CDMA61895.2025.00034}}
 
 
-\bibitem[Uddin et~al\mbox{.}(2022)]%
-        {uddinSoftwareDefectPrediction2022}
-\bibfield{author}{\bibinfo{person}{Md~Nasir Uddin}, \bibinfo{person}{Bixin Li}, \bibinfo{person}{Zafar Ali}, \bibinfo{person}{Pavlos Kefalas}, \bibinfo{person}{Inayat Khan}, {and} \bibinfo{person}{Islam Zada}.} \bibinfo{year}{2022}\natexlab{}.
-\newblock \showarticletitle{{Software Defect Prediction Employing BiLSTM and BERT-based Semantic Feature}}.
-\newblock \bibinfo{journal}{\emph{Soft Computing}} \bibinfo{volume}{26}, \bibinfo{number}{16} (\bibinfo{year}{2022}), \bibinfo{pages}{7877--7891}.
+\bibitem[Tsai et~al\mbox{.}(2025a)]%
+        {tsaiSequentialMultiStageApproach2025}
+\bibfield{author}{\bibinfo{person}{Chung-Nan Tsai}, \bibinfo{person}{Xin Wang}, \bibinfo{person}{Cheng-Hsiung Lee}, {and} \bibinfo{person}{Ching-Sheng Lin}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{{A Sequential Multi-Stage Approach for Code Vulnerability Detection via Confidence- and Collaboration-based Decision Making}}. In \bibinfo{booktitle}{\emph{Conference on Empirical Methods in Natural Language Processing (EMNLP)}}. \bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Suzhou, China}, \bibinfo{pages}{21162--21168}.
 \newblock
+\href{https://doi.org/10.18653/v1/2025.emnlp-main.1071}{doi:\nolinkurl{10.18653/v1/2025.emnlp-main.1071}}
+
+
+\bibitem[Tsai et~al\mbox{.}(2025b)]%
+        {tsaiLeveragingIntraInterReferences2025}
+\bibfield{author}{\bibinfo{person}{Chung-Nan Tsai}, \bibinfo{person}{Jingnan Xie}, \bibinfo{person}{Chun-Ming Lai}, {and} \bibinfo{person}{Ching-Sheng Lin}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{Leveraging Intra-and Inter-References in Vulnerability Detection using Multi-Agent Collaboration Based on LLMs}}.
+\newblock \bibinfo{journal}{\emph{Cluster Computing}} \bibinfo{volume}{28}, \bibinfo{number}{15} (\bibinfo{year}{2025}), \bibinfo{pages}{1--12}.
+\newblock
+\href{https://doi.org/10.1007/s10586-025-05721-2}{doi:\nolinkurl{10.1007/s10586-025-05721-2}}
 
 
 \bibitem[Ullah et~al\mbox{.}(2024)]%
@@ -2373,15 +2675,6 @@
 \newblock
 
 
-\bibitem[Wang et~al\mbox{.}(2023e)]%
-        {wangPromptTuningCode2023}
-\bibfield{author}{\bibinfo{person}{Chaozheng Wang}, \bibinfo{person}{Yuanhang Yang}, \bibinfo{person}{Cuiyun Gao}, \bibinfo{person}{Yun Peng}, \bibinfo{person}{Hongyu Zhang}, {and} \bibinfo{person}{Michael~R. Lyu}.} \bibinfo{year}{2023}\natexlab{e}.
-\newblock \showarticletitle{{Prompt Tuning in Code Intelligence: An Experimental Evaluation}}.
-\newblock \bibinfo{journal}{\emph{IEEE Transactions on Software Engineering (TSE)}} \bibinfo{volume}{49}, \bibinfo{number}{11} (\bibinfo{year}{2023}), \bibinfo{pages}{4869--4885}.
-\newblock
-\href{https://doi.org/10.1109/TSE.2023.3313881}{doi:\nolinkurl{10.1109/TSE.2023.3313881}}
-
-
 \bibitem[Wang et~al\mbox{.}(2025b)]%
         {wangSecureMindFrameworkBenchmarking2025}
 \bibfield{author}{\bibinfo{person}{Huanting Wang}, \bibinfo{person}{Dejice Jacob}, \bibinfo{person}{David Kelly}, \bibinfo{person}{Yehia Elkhatib}, \bibinfo{person}{Jeremy Singer}, {and} \bibinfo{person}{Zheng Wang}.} \bibinfo{year}{2025}\natexlab{b}.
@@ -2406,18 +2699,18 @@
 \showeprint[arxiv]{2309.15324}
 
 
-\bibitem[Wang et~al\mbox{.}(2024e)]%
+\bibitem[Wang et~al\mbox{.}(2024b)]%
         {wangSCLCVDSupervisedContrastive2024}
-\bibfield{author}{\bibinfo{person}{Rongcun Wang}, \bibinfo{person}{Senlei Xu}, \bibinfo{person}{Yuan Tian}, \bibinfo{person}{Xingyu Ji}, \bibinfo{person}{Xiaobing Sun}, {and} \bibinfo{person}{Shujuang Jiang}.} \bibinfo{year}{2024}\natexlab{e}.
+\bibfield{author}{\bibinfo{person}{Rongcun Wang}, \bibinfo{person}{Senlei Xu}, \bibinfo{person}{Yuan Tian}, \bibinfo{person}{Xingyu Ji}, \bibinfo{person}{Xiaobing Sun}, {and} \bibinfo{person}{Shujuang Jiang}.} \bibinfo{year}{2024}\natexlab{b}.
 \newblock \showarticletitle{{SCL-CVD: Supervised Contrastive Learning for Code Vulnerability Detection via GraphCodeBERT}}.
 \newblock \bibinfo{journal}{\emph{Computers \& Security (COSE)}}  \bibinfo{volume}{145} (\bibinfo{year}{2024}), \bibinfo{pages}{103994}.
 \newblock
 \href{https://doi.org/10.1016/j.cose.2024.103994}{doi:\nolinkurl{10.1016/j.cose.2024.103994}}
 
 
-\bibitem[Wang et~al\mbox{.}(2025c)]%
+\bibitem[Wang et~al\mbox{.}(2025g)]%
         {wangANVILAnomalybasedVulnerability2024}
-\bibfield{author}{\bibinfo{person}{Weizhou Wang}, \bibinfo{person}{Eric Liu}, \bibinfo{person}{Xiangyu Guo}, \bibinfo{person}{Xiao Hu}, \bibinfo{person}{Ilya Grishchenko}, {and} \bibinfo{person}{David Lie}.} \bibinfo{year}{2025}\natexlab{c}.
+\bibfield{author}{\bibinfo{person}{Weizhou Wang}, \bibinfo{person}{Eric Liu}, \bibinfo{person}{Xiangyu Guo}, \bibinfo{person}{Xiao Hu}, \bibinfo{person}{Ilya Grishchenko}, {and} \bibinfo{person}{David Lie}.} \bibinfo{year}{2025}\natexlab{g}.
 \newblock \bibinfo{booktitle}{\emph{{ANVIL: Anomaly-based Vulnerability Identification without Labelled Training Data}}}.
 \newblock
 \showeprint[arxiv]{2408.16028}
@@ -2437,15 +2730,6 @@
 \newblock \showarticletitle{{ReposVul: A Repository-Level High-Quality Vulnerability Dataset}}. In \bibinfo{booktitle}{\emph{International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)}}. \bibinfo{publisher}{IEEE/ACM}, \bibinfo{address}{Lisbon, Portugal}, \bibinfo{pages}{472–483}.
 \newblock
 \href{https://doi.org/10.1145/3639478.3647634}{doi:\nolinkurl{10.1145/3639478.3647634}}
-
-
-\bibitem[Wang et~al\mbox{.}(2024d)]%
-        {wangParameterEfficientMulticlassificationSoftware2024}
-\bibfield{author}{\bibinfo{person}{Xuanye Wang}, \bibinfo{person}{Lu Lu}, \bibinfo{person}{Zhanyu Yang}, \bibinfo{person}{Qingyan Tian}, {and} \bibinfo{person}{Haisha Lin}.} \bibinfo{year}{2024}\natexlab{d}.
-\newblock \showarticletitle{{Parameter-efficient Multi-classification Software Defect Detection Method based on Pre-trained LLMs}}.
-\newblock \bibinfo{journal}{\emph{International Journal of Computational Intelligence Systems (IJCIS)}} \bibinfo{volume}{17}, \bibinfo{number}{1} (\bibinfo{year}{2024}), \bibinfo{pages}{152}.
-\newblock
-\href{https://doi.org/10.1007/s44196-024-00551-3}{doi:\nolinkurl{10.1007/s44196-024-00551-3}}
 
 
 \bibitem[Wang et~al\mbox{.}(2023d)]%
@@ -2472,6 +2756,14 @@
 \showeprint[arxiv]{2305.07922}
 
 
+\bibitem[Wang et~al\mbox{.}(2025f)]%
+        {wangVuLMCBERTVulnerabilityDetection2025}
+\bibfield{author}{\bibinfo{person}{Yifan Wang}, \bibinfo{person}{Penghao Liu}, {and} \bibinfo{person}{Yang Zhang}.} \bibinfo{year}{2025}\natexlab{f}.
+\newblock \showarticletitle{{VuL-MCBERT: A Vulnerability Detection Method Based on Self-Supervised Contrastive Learning}}. In \bibinfo{booktitle}{\emph{International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Beijing, China}, \bibinfo{pages}{923--927}.
+\newblock
+\href{https://doi.org/10.1109/CAIBDA65784.2025.11183103}{doi:\nolinkurl{10.1109/CAIBDA65784.2025.11183103}}
+
+
 \bibitem[Wang et~al\mbox{.}(2021)]%
         {wang2021codet5}
 \bibfield{author}{\bibinfo{person}{Yue Wang}, \bibinfo{person}{Weishi Wang}, \bibinfo{person}{Shafiq Joty}, {and} \bibinfo{person}{Steven C.~H. Hoi}.} \bibinfo{year}{2021}\natexlab{}.
@@ -2480,20 +2772,31 @@
 \showeprint[arxiv]{2109.00859}
 
 
-\bibitem[Wang et~al\mbox{.}(2024b)]%
+\bibitem[Wang et~al\mbox{.}(2025c)]%
         {wangLinelevelSemanticStructure2024}
-\bibfield{author}{\bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Yihong Dong}, \bibinfo{person}{Yingfei Xiong}, {and} \bibinfo{person}{Zhi Jin}.} \bibinfo{year}{2024}\natexlab{b}.
-\newblock \bibinfo{booktitle}{\emph{{Line-level Semantic Structure Learning for Code Vulnerability Detection}}}.
+\bibfield{author}{\bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Yihong Dong}, \bibinfo{person}{Yingfei Xiong}, {and} \bibinfo{person}{Zhi Jin}.} \bibinfo{year}{2025}\natexlab{c}.
+\newblock \showarticletitle{{Line-level Semantic Structure Learning for Code Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Conference on Internetware (Internetware)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Trondheim, Norway}, \bibinfo{pages}{269–280}.
 \newblock
-\showeprint[arxiv]{2407.18877}
+\href{https://doi.org/10.1145/3755881.3755894}{doi:\nolinkurl{10.1145/3755881.3755894}}
 
 
-\bibitem[Wang et~al\mbox{.}(2024c)]%
+\bibitem[Wang et~al\mbox{.}(2025d)]%
         {wangM2CVDEnhancingVulnerability2024}
-\bibfield{author}{\bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Yingfei Xiong}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Meng Yan}, {and} \bibinfo{person}{Zhi Jin}.} \bibinfo{year}{2024}\natexlab{c}.
-\newblock \bibinfo{booktitle}{\emph{{M2CVD: Enhancing Vulnerability Semantic through Multi-Model Collaboration for Code Vulnerability Detection}}}.
+\bibfield{author}{\bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Meng Yan}, \bibinfo{person}{Yingfei Xiong}, {and} \bibinfo{person}{Zhi Jin}.} \bibinfo{year}{2025}\natexlab{d}.
+\newblock \showarticletitle{{M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology (TOSEM)}} (\bibinfo{year}{2025}).
 \newblock
-\showeprint[arxiv]{2406.05940}
+\href{https://doi.org/10.1145/3771923}{doi:\nolinkurl{10.1145/3771923}}
+\newblock
+\shownote{Just Accepted}.
+
+
+\bibitem[Wang et~al\mbox{.}(2025e)]%
+        {wangVulAgentHypothesisValidationBased2025}
+\bibfield{author}{\bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Ge Li}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Hao Zhu}, {and} \bibinfo{person}{Zhi Jin}.} \bibinfo{year}{2025}\natexlab{e}.
+\newblock \bibinfo{booktitle}{\emph{{VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection}}}.
+\newblock
+\showeprint[arxiv]{2509.11523}
 
 
 \bibitem[Wartschinski et~al\mbox{.}(2022)]%
@@ -2510,6 +2813,14 @@
 \bibfield{author}{\bibinfo{person}{Jason Wei}, \bibinfo{person}{Xuezhi Wang}, \bibinfo{person}{Dale Schuurmans}, \bibinfo{person}{Maarten Bosma}, \bibinfo{person}{Fei Xia}, \bibinfo{person}{Ed Chi}, \bibinfo{person}{Quoc~V Le}, \bibinfo{person}{Denny Zhou}, {et~al\mbox{.}}} \bibinfo{year}{2022}\natexlab{}.
 \newblock \showarticletitle{{Chain-of-Thought Prompting Elicits Reasoning in Large Language Models}}. In \bibinfo{booktitle}{\emph{Advances in Neural Information Processing Systems (NeurIPS)}}, Vol.~\bibinfo{volume}{35}. \bibinfo{publisher}{Curran Associates, Inc.}, \bibinfo{address}{New Orleans, LA, USA}, \bibinfo{pages}{24824--24837}.
 \newblock
+
+
+\bibitem[Wei et~al\mbox{.}(2025)]%
+        {weiDistillingLightweightLanguage2025}
+\bibfield{author}{\bibinfo{person}{Zhiyuan Wei}, \bibinfo{person}{Xiaoxuan Yang}, \bibinfo{person}{Jing Sun}, {and} \bibinfo{person}{Zijian Zhang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{{Distilling Lightweight Language Models for C/C++ Vulnerabilities}}}.
+\newblock
+\showeprint[arxiv]{2510.06645}
 
 
 \bibitem[Wen et~al\mbox{.}(2024a)]%
@@ -2585,6 +2896,22 @@
 \showeprint[arxiv]{2312.05275}
 
 
+\bibitem[Wu and Zhang(2024)]%
+        {wuSoftwareVulnerabilityDetection2024}
+\bibfield{author}{\bibinfo{person}{Jie Wu} {and} \bibinfo{person}{Cheng Zhang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{{A Software Vulnerability Detection Model Combined with Graph Simplification}}. In \bibinfo{booktitle}{\emph{Asia-Pacific Artificial Intelligence and Big Data Forum (AIBDF)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Ganzhou Shaanxi, China}, \bibinfo{pages}{202–207}.
+\newblock
+\href{https://doi.org/10.1145/3718491.3718525}{doi:\nolinkurl{10.1145/3718491.3718525}}
+
+
+\bibitem[Wu and Xiao(2025)]%
+        {wu2025sparse}
+\bibfield{author}{\bibinfo{person}{Yifan Wu} {and} \bibinfo{person}{Lei Xiao}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Sparse-MoE: Syntax-Aware Multi-view Mixture of Experts for Long-Sequence Software Vulnerability Detection}}. In \bibinfo{booktitle}{\emph{International Conference on Advanced Data Mining and Applications (ADMA)}}. \bibinfo{publisher}{Springer}, \bibinfo{address}{Kyoto, Japan}, \bibinfo{pages}{348--362}.
+\newblock
+\href{https://doi.org/10.1007/978-981-95-3456-2_24}{doi:\nolinkurl{10.1007/978-981-95-3456-2_24}}
+
+
 \bibitem[Xia et~al\mbox{.}(2025)]%
         {xiaStaticPatternMatching2025}
 \bibfield{author}{\bibinfo{person}{Yifan Xia}, \bibinfo{person}{Zichen Xie}, \bibinfo{person}{Peiyu Liu}, \bibinfo{person}{Kangjie Lu}, \bibinfo{person}{Yan Liu}, \bibinfo{person}{Wenhai Wang}, {and} \bibinfo{person}{Shouling Ji}.} \bibinfo{year}{2025}\natexlab{}.
@@ -2605,9 +2932,12 @@
 \bibitem[Xu et~al\mbox{.}(2025)]%
         {xu2024large}
 \bibfield{author}{\bibinfo{person}{Hanxiang Xu}, \bibinfo{person}{Shenao Wang}, \bibinfo{person}{Ningke Li}, \bibinfo{person}{Kailong Wang}, \bibinfo{person}{Yanjie Zhao}, \bibinfo{person}{Kai Chen}, \bibinfo{person}{Ting Yu}, \bibinfo{person}{Yang Liu}, {and} \bibinfo{person}{Haoyu Wang}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Large Language Models for Cyber Security: A Systematic Literature Review}}}.
+\newblock \showarticletitle{{Large Language Models for Cyber Security: A Systematic Literature Review}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology}} (\bibinfo{year}{2025}).
 \newblock
-\showeprint[arxiv]{2405.04760}
+\href{https://doi.org/10.1145/3769676}{doi:\nolinkurl{10.1145/3769676}}
+\newblock
+\shownote{Just Accepted}.
 
 
 \bibitem[Xu et~al\mbox{.}(2023)]%
@@ -2653,17 +2983,21 @@
 \bibitem[Yang et~al\mbox{.}(2025a)]%
         {yangMoEVDEnhancingVulnerability2025}
 \bibfield{author}{\bibinfo{person}{Xu Yang}, \bibinfo{person}{Shaowei Wang}, \bibinfo{person}{Jiayuan Zhou}, {and} \bibinfo{person}{Wenhan Zhu}.} \bibinfo{year}{2025}\natexlab{a}.
-\newblock \bibinfo{booktitle}{\emph{{One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)}}}.
+\newblock \showarticletitle{{One-for-All Does Not Work! Enhancing Vulnerability Detection by Mixture-of-Experts (MoE)}}.
+\newblock \bibinfo{journal}{\emph{Proceedings of the ACM on Software Engineering (PACMSE)}} \bibinfo{volume}{2}, \bibinfo{number}{FSE}, Article \bibinfo{articleno}{FSE021} (\bibinfo{year}{2025}), \bibinfo{numpages}{19}~pages.
 \newblock
-\showeprint[arxiv]{2501.16454}
+\href{https://doi.org/10.1145/3715736}{doi:\nolinkurl{10.1145/3715736}}
 
 
 \bibitem[Yang et~al\mbox{.}(2025b)]%
         {yangContextEnhancedVulnerabilityDetection2025}
 \bibfield{author}{\bibinfo{person}{Yixin Yang}, \bibinfo{person}{Bowen Xu}, \bibinfo{person}{Xiang Gao}, {and} \bibinfo{person}{Hailong Sun}.} \bibinfo{year}{2025}\natexlab{b}.
-\newblock \bibinfo{booktitle}{\emph{{Context-Enhanced Vulnerability Detection Based on Large Language Model}}}.
+\newblock \showarticletitle{{Context-Enhanced Vulnerability Detection Based on Large Language Models}}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Software Engineering and Methodology (TOSEM)}} (\bibinfo{year}{2025}).
 \newblock
-\showeprint[arxiv]{2504.16877}
+\href{https://doi.org/10.1145/3779222}{doi:\nolinkurl{10.1145/3779222}}
+\newblock
+\shownote{Just Accepted}.
 
 
 \bibitem[Yang et~al\mbox{.}(2025c)]%
@@ -2692,10 +3026,10 @@
 
 \bibitem[Yildiz et~al\mbox{.}(2025)]%
         {yildizBenchmarkingLLMsLLMbased2025}
-\bibfield{author}{\bibinfo{person}{Alperen Yildiz}, \bibinfo{person}{Sin~G. Teo}, \bibinfo{person}{Yiling Lou}, \bibinfo{person}{Yebo Feng}, \bibinfo{person}{Chong Wang}, {and} \bibinfo{person}{Dinil~M. Divakaran}.} \bibinfo{year}{2025}\natexlab{}.
-\newblock \bibinfo{booktitle}{\emph{{Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories}}}.
+\bibfield{author}{\bibinfo{person}{Alperen Yildiz}, \bibinfo{person}{Sin~G Teo}, \bibinfo{person}{Yiling Lou}, \bibinfo{person}{Yebo Feng}, \bibinfo{person}{Chong Wang}, {and} \bibinfo{person}{Dinil~Mon Divakaran}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories}}. In \bibinfo{booktitle}{\emph{Annual Meeting of the Association for Computational Linguistics (ACL)}}. \bibinfo{publisher}{Association for Computational Linguistics}, \bibinfo{address}{Vienna, Austria}, \bibinfo{pages}{30848--30865}.
 \newblock
-\showeprint[arxiv]{2503.03586}
+\href{https://doi.org/10.18653/v1/2025.acl-long.1490}{doi:\nolinkurl{10.18653/v1/2025.acl-long.1490}}
 
 
 \bibitem[Yin et~al\mbox{.}(2024)]%
@@ -2740,6 +3074,14 @@
 \href{https://doi.org/10.1109/TSE.2024.3492204}{doi:\nolinkurl{10.1109/TSE.2024.3492204}}
 
 
+\bibitem[Yu and Zhang(2025)]%
+        {yuVulnerabilityDetectionFramework2025}
+\bibfield{author}{\bibinfo{person}{Yalong Yu} {and} \bibinfo{person}{Cheng Zhang}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{{A Vulnerability Detection Framework Based on Graph Decomposition Fusion and Augmented Abstract Syntax Tree}}. In \bibinfo{booktitle}{\emph{International Conference on Big Data, Information and Computer Network (BDICN)}}. \bibinfo{publisher}{ACM}, \bibinfo{address}{Guangzhou, China}, \bibinfo{pages}{734–738}.
+\newblock
+\href{https://doi.org/10.1145/3727353.3727471}{doi:\nolinkurl{10.1145/3727353.3727471}}
+
+
 \bibitem[Yuan et~al\mbox{.}(2022)]%
         {yuanDeepNeuralEmbedding2022}
 \bibfield{author}{\bibinfo{person}{Xue Yuan}, \bibinfo{person}{Guanjun Lin}, \bibinfo{person}{Yonghang Tai}, {and} \bibinfo{person}{Jun Zhang}.} \bibinfo{year}{2022}\natexlab{}.
@@ -2766,20 +3108,12 @@
 \href{https://doi.org/10.1002/nem.2198}{doi:\nolinkurl{10.1002/nem.2198}}
 
 
-\bibitem[Zhang et~al\mbox{.}(2024d)]%
+\bibitem[Zhang et~al\mbox{.}(2024c)]%
         {zhangMVDMultiLingualSoftware2024}
-\bibfield{author}{\bibinfo{person}{Boyu Zhang}, \bibinfo{person}{Triet H.~M. Le}, {and} \bibinfo{person}{M.~Ali Babar}.} \bibinfo{year}{2024}\natexlab{d}.
+\bibfield{author}{\bibinfo{person}{Boyu Zhang}, \bibinfo{person}{Triet H.~M. Le}, {and} \bibinfo{person}{M.~Ali Babar}.} \bibinfo{year}{2024}\natexlab{c}.
 \newblock \bibinfo{booktitle}{\emph{{MVD: A Multi-Lingual Software Vulnerability Detection Framework}}}.
 \newblock
 \showeprint[arxiv]{2412.06166}
-
-
-\bibitem[Zhang et~al\mbox{.}(2025a)]%
-        {zhang2024llms}
-\bibfield{author}{\bibinfo{person}{Jie Zhang}, \bibinfo{person}{Haoyu Bu}, \bibinfo{person}{Hui Wen}, \bibinfo{person}{Yongji Liu}, \bibinfo{person}{Haiqiang Fei}, \bibinfo{person}{Rongrong Xi}, \bibinfo{person}{Lun Li}, \bibinfo{person}{Yun Yang}, \bibinfo{person}{Hongsong Zhu}, {and} \bibinfo{person}{Dan Meng}.} \bibinfo{year}{2025}\natexlab{a}.
-\newblock \showarticletitle{{When LLMs Meet Cybersecurity: A Systematic Literature Review}}.
-\newblock \bibinfo{journal}{\emph{Cybersecurity}} \bibinfo{volume}{8}, \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{55}.
-\newblock
 
 
 \bibitem[Zhang et~al\mbox{.}(2023a)]%
@@ -2792,19 +3126,19 @@
 
 
 \bibitem[Zhang et~al\mbox{.}(2024a)]%
-        {zhang2024systematic}
-\bibfield{author}{\bibinfo{person}{Quanjun Zhang}, \bibinfo{person}{Chunrong Fang}, \bibinfo{person}{Yang Xie}, \bibinfo{person}{YuXiang Ma}, \bibinfo{person}{Weisong Sun}, \bibinfo{person}{Yun Yang}, {and} \bibinfo{person}{Zhenyu Chen}.} \bibinfo{year}{2024}\natexlab{a}.
-\newblock \bibinfo{booktitle}{\emph{{A Systematic Literature Review on Large Language Models for Automated Program Repair}}}.
-\newblock
-\showeprint[arxiv]{2405.01466}
-
-
-\bibitem[Zhang et~al\mbox{.}(2024b)]%
         {zhang2023survey}
-\bibfield{author}{\bibinfo{person}{Quanjun Zhang}, \bibinfo{person}{Chunrong Fang}, \bibinfo{person}{Yang Xie}, \bibinfo{person}{Yaxin Zhang}, \bibinfo{person}{Yun Yang}, \bibinfo{person}{Weisong Sun}, \bibinfo{person}{Shengcheng Yu}, {and} \bibinfo{person}{Zhenyu Chen}.} \bibinfo{year}{2024}\natexlab{b}.
+\bibfield{author}{\bibinfo{person}{Quanjun Zhang}, \bibinfo{person}{Chunrong Fang}, \bibinfo{person}{Yang Xie}, \bibinfo{person}{Yaxin Zhang}, \bibinfo{person}{Yun Yang}, \bibinfo{person}{Weisong Sun}, \bibinfo{person}{Shengcheng Yu}, {and} \bibinfo{person}{Zhenyu Chen}.} \bibinfo{year}{2024}\natexlab{a}.
 \newblock \bibinfo{booktitle}{\emph{{A Survey on Large Language Models for Software Engineering}}}.
 \newblock
 \showeprint[arxiv]{2312.15223}
+
+
+\bibitem[Zhang et~al\mbox{.}(2025a)]%
+        {zhangVulTrLMLLMassistedVulnerability2026}
+\bibfield{author}{\bibinfo{person}{Shaobo Zhang}, \bibinfo{person}{Qianzhi Wang}, \bibinfo{person}{Qin Liu}, \bibinfo{person}{Entao Luo}, {and} \bibinfo{person}{Tao Peng}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{{VulTrLM: LLM-assisted Vulnerability Detection via AST Decomposition and Comment Enhancement}}.
+\newblock \bibinfo{journal}{\emph{Empirical Software Engineering (EMSE)}} \bibinfo{volume}{31}, \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{1--36}.
+\newblock
 
 
 \bibitem[Zhang et~al\mbox{.}(2025b)]%
@@ -2815,9 +3149,9 @@
 \showeprint[arxiv]{2503.01449}
 
 
-\bibitem[Zhang et~al\mbox{.}(2024c)]%
+\bibitem[Zhang et~al\mbox{.}(2024b)]%
         {zhangMethodSQLInjection2024}
-\bibfield{author}{\bibinfo{person}{Yingying Zhang}, \bibinfo{person}{Zhengdan Jiang}, \bibinfo{person}{Xingkai Cheng}, \bibinfo{person}{Han Wu}, \bibinfo{person}{Zonghang Tian}, {and} \bibinfo{person}{Shuting Lou}.} \bibinfo{year}{2024}\natexlab{c}.
+\bibfield{author}{\bibinfo{person}{Yingying Zhang}, \bibinfo{person}{Zhengdan Jiang}, \bibinfo{person}{Xingkai Cheng}, \bibinfo{person}{Han Wu}, \bibinfo{person}{Zonghang Tian}, {and} \bibinfo{person}{Shuting Lou}.} \bibinfo{year}{2024}\natexlab{b}.
 \newblock \showarticletitle{{A Method of SQL Injection Attack Detection Based on Large Language Models}}. In \bibinfo{booktitle}{\emph{International Conference on Computer Network Technology and Electronic and Information Engineering (CNTEIE)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Changchun, China}, \bibinfo{pages}{154--158}.
 \newblock
 \href{https://doi.org/10.1109/CNTEIE66268.2024.00035}{doi:\nolinkurl{10.1109/CNTEIE66268.2024.00035}}
@@ -2943,12 +3277,28 @@
 \href{https://doi.org/10.1007/978-3-031-19208-1_23}{doi:\nolinkurl{10.1007/978-3-031-19208-1_23}}
 
 
+\bibitem[Zhu et~al\mbox{.}(2025a)]%
+        {zhuSpecificationGuidedVulnerabilityDetection2025}
+\bibfield{author}{\bibinfo{person}{Hao Zhu}, \bibinfo{person}{Jia Li}, \bibinfo{person}{Cuiyun Gao}, \bibinfo{person}{Jiaru Qian}, \bibinfo{person}{Yihong Dong}, \bibinfo{person}{Huanyu Liu}, \bibinfo{person}{Lecheng Wang}, \bibinfo{person}{Ziliang Wang}, \bibinfo{person}{Xiaolong Hu}, {and} \bibinfo{person}{Ge Li}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \bibinfo{booktitle}{\emph{{Specification-Guided Vulnerability Detection with Large Language Models}}}.
+\newblock
+\showeprint[arxiv]{2511.04014}
+
+
 \bibitem[Zhu et~al\mbox{.}(2024)]%
         {zhuDetectingSourceCode2024}
 \bibfield{author}{\bibinfo{person}{Jin Zhu}, \bibinfo{person}{Hui Ge}, \bibinfo{person}{Yun Zhou}, \bibinfo{person}{Xiao Jin}, \bibinfo{person}{Rui Luo}, {and} \bibinfo{person}{Yanchen Sun}.} \bibinfo{year}{2024}\natexlab{}.
 \newblock \showarticletitle{{Detecting Source Code Vulnerabilities Using Fine-Tuned Pre-Trained LLMs}}. In \bibinfo{booktitle}{\emph{International Conference on Signal Processing (ICSP)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Xian, China}, \bibinfo{pages}{238--242}.
 \newblock
 \href{https://doi.org/10.1109/ICSP62129.2024.10846595}{doi:\nolinkurl{10.1109/ICSP62129.2024.10846595}}
+
+
+\bibitem[Zhu et~al\mbox{.}(2025b)]%
+        {zhuAutomatedCodeReview2025}
+\bibfield{author}{\bibinfo{person}{Qiang Zhu}, \bibinfo{person}{Zhengying Wang}, \bibinfo{person}{Yufei Zhuang}, \bibinfo{person}{Guo Chen}, \bibinfo{person}{He Luo}, \bibinfo{person}{Meiqi Wu}, \bibinfo{person}{Hongxiang Chen}, {and} \bibinfo{person}{Zhi Liu}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{{An Automated Code Review Framework Based on BERT and Qianwen Large Model}}. In \bibinfo{booktitle}{\emph{IEEE International Conference on Computer Communication and Artificial Intelligence (CCAI)}}. \bibinfo{publisher}{IEEE}, \bibinfo{address}{Haikou, China}, \bibinfo{pages}{960--964}.
+\newblock
+\href{https://doi.org/10.1109/CCAI65422.2025.11189422}{doi:\nolinkurl{10.1109/CCAI65422.2025.11189422}}
 
 
 \bibitem[Zibaeirad and Vieira(2024)]%
