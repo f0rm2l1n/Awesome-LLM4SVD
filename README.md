@@ -48,6 +48,7 @@ For details, see our [preprint here](https://arxiv.org/abs/2507.22659):
 
 
 ### 2025
+- ✨ (12/2025) VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection **`arXiv 2025`** [[Paper](https://arxiv.org/pdf/2512.07533)] [[Code](https://github.com/ucsb-mlsec/VulnLLM-R)]
 - (11/2025) Leveraging Self-Paced Learning for Software Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2511.09212)] [[Code](https://figshare.com/s/bef3211194fc18fe375e)]
 - (11/2025) Specification-Guided Vulnerability Detection with Large Language Models.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2511.04014)] [[Code](https://github.com/zhuhaopku/VulInstruct-temp)]
 - (11/2025) Compressing Large Language Models for SQL Injection Detection: A Case Study on Deep Seek-Coder and Meta-llama-3-70b-instruct.  **`FRUCT 2025`** [[Paper](https://ieeexplore.ieee.org/document/11239157)]
